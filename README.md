@@ -1,3 +1,3 @@
 # nmfoxshop
-shop 
-开源电子商城。
+nmfoxshop 
+开源电子商城
