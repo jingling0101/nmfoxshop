@@ -1,0 +1,209 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>商品编辑</title>
+<link href="../hment/css/style.css" rel="stylesheet" type="text/css" />
+<link href="../hment/css/select.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../hment/js/jquery.js"></script>
+
+
+<script type="text/javascript">
+    KE.show({
+        id : 'content7',
+        cssPath : './index.css'
+    });
+  </script>
+  
+<script type="text/javascript">
+$(document).ready(function(e) {
+    $(".select1").uedSelect({
+		width : 345			  
+	});
+	$(".select2").uedSelect({
+		width : 167  
+	});
+	$(".select3").uedSelect({
+		width : 100
+	});
+});
+</script>
+</head>
+
+<body>
+
+	<div class="place">
+    <span>位置：</span>
+    <ul class="placeul">
+    <li><a href="#">首页</a></li>
+    <li><a href="#">修改商品</a></li>
+    </ul>
+    </div>    
+    <div class="formbody">  
+    <div id="usual1" class="usual"> 
+    
+    <div class="itab">
+  	<ul> 
+    <li><a href="#tab1" class="selected">修改</a></li> 
+  	</ul>
+    </div> 
+    
+  	<div id="tab1" class="tabson">
+    <form enctype="multipart/form-data" action="goodsditact.php" method="post" name="input" >
+   
+    <div class="formtext">Hi，<b>admin</b>，确定修改！<input type="submit" value="确认修改"/></div>
+    
+    <ul class="forminfo">
+    
+   <input name="goods_id" type="hidden" class="dfinput" value="<?php  echo $g['goods_id']; ?>"  style=""/>
+   
+    <li><label>商品名称<b>*</b></label><input name="goods_name" type="text" class="dfinput" value="<?php  echo $g['goods_name']; ?>"  style="width:518px;"/></li>
+    <li><label>商品货号<b>*</b></label><input name="brand_id" type="text" class="dfinput" value="<?php  echo $g['brand_id']; ?>"  style="width:340px;"/></li>
+
+    <li><label>所属分类<b>*</b></label>  
+    
+    <div class="vocation">
+    <select name="cat_id" class="select1">
+     
+                        <?php foreach($catlist as $v) { ?>
+                        <option value="<?php echo $v['cat_id']; ?>">
+                        <?php echo str_repeat('&nbsp;&nbsp;',$v['lev']),$v['cat_name']; ?></option>
+                        <?php } ?>
+                       
+    </select>
+    </div>    
+    </li>
+    <li><label>本店价格<b>*</b></label>    
+    <div class="usercity">   
+    <div class="cityleft">
+   <input name="shop_price" type="text" class="dfinput" value="<?php  echo $g['shop_price']; ?>"  style="width:80px;"/><b>元</b>
+   
+      </div>
+ 
+    <div class="cityright">
+   <label>&nbsp;&nbsp;&nbsp;&nbsp;市场价格<b>*</b>&nbsp;</label>
+     <input name="market_price" type="text" class="dfinput" value="<?php  echo $g['market_price']; ?>"  style="width:80px;"/><b>元</b>
+    </div>
+    
+    </div>
+    
+    <li><li/>
+    
+    </li>
+  <li><label>商品数量<b>*</b></label><input name="goods_number" type="text" class="dfinput" value="<?php echo $g['goods_number']; ?>"  style="width:100px;"/>个</li>
+ <li><label>重量<b>*</b></label>
+    <div class="usercity"> 
+     <div class="cityleft">
+      <input type="text" name="goods_weight" class="dfinput" value=""  style="width:100px;"/> 
+  </div>
+  <div class="cityright">
+    
+    <select name="weight_unit" class="select2"><option value="1" selected>千克</option><option value="0.001">克</option></select>
+     </div>
+      </div>
+  </li>
+ <li><label>发货地<b>*</b></label>
+    
+    <div class="usercity">
+    
+    <div class="cityleft">
+    <select class="select2">
+    <option>河南</option>
+    <option>湖南</option>
+    <option>广东</option>
+    <option>北京</option>
+    <option>湖北</option>
+    </select>
+    </div>
+    
+    <div class="cityright">
+    <select class="select2">
+    <option>郑州</option>
+    <option>无锡</option>
+    <option>盐城</option>
+    <option>徐州</option>
+    <option>连云港</option>
+    </select>
+    </div>   
+    </div>   
+    </li>
+
+<li>
+<br />
+        <p>:&nbsp;
+        <input type="radio" name="is_best" value="1" /> 精品
+        <input type="radio" name="is_best" value="0" /> 非精品
+         </p> 
+
+        <p>:&nbsp;
+        <input type="radio" name="is_new" value="1" /> 新品
+        <input type="radio" name="is_new" value="0" /> 非新品
+        </p> 
+        <p>:&nbsp;
+        <input type="radio" name="is_hot" value="1" /> 热卖
+        <input type="radio" name="is_hot" value="0" /> 非热卖
+        </p> 
+        <p>:&nbsp;
+        <input type="checkbox" name="is_on_sale" value="<?php  echo $g['is_sale']; ?>" />
+        上架
+        <input type="checkbox" name="is_delete" value="<?php  echo $g['is_delete']; ?>" />
+        仓库
+        </p>
+   <br />
+</li>
+</li>
+
+   
+  <li>产品图片1<b>*</b><input type="file" name="goods_img" size="35" /></li>
+  <li>产品图片2<b>*</b><input type="file" name="goods_img2" size="35" /></li>
+  <li>产品图片3<b>*</b><input type="file" name="goods_img3" size="35" /></li>
+  <li>产品图片4<b>*</b><input type="file" name="goods_img4" size="35" /></li>
+  <li>产品图片5<b>*</b><input type="file" name="goods_img5" size="35" /></li>
+  
+
+</li>
+
+    <li><label>&nbsp;</label><input type="submit" class="btn" value="修改"/></li>
+    </form>
+
+     <form enctype="multipart/form-data" action="goodsditact.php?act=xiangqi" method="post" name="input" >
+ <li><label>简介</label><textarea name="goods_brief" cols="" rows="" class="textinput"><?php echo $xq['goods_brief']; ?></textarea></li>
+ <input name="goods_id" type="hidden" class="dfinput" value="<?php  echo $g['goods_id']; ?>"  style=""/>
+    <li><label>详情<b>*</b></label></li>
+    <li>
+    
+     <script id="container" name="description" type="text/plain">
+ <?php echo $xq['description']; ?>
+    </script>
+       <script type="text/javascript" charset="utf-8" src="../hment/ueditor/ueditor.config.js"></script>
+       <script type="text/javascript" charset="utf-8" src="../hment/ueditor/ueditor.all.js"> </script>
+    
+   <script type="text/javascript">
+        var ue = UE.getEditor('container');
+    </script>
+
+    </li>
+     
+    <li><label>&nbsp;</label><input type="submit" class="btn" value="修改"/></li>
+    </ul>
+    </form>
+    </div> 
+    
+    
+ 
+
+      
+    
+    </div>
+    <script type="text/javascript"> 
+      $("#usual1 ul").idTabs(); 
+    </script>
+    
+    <script type="text/javascript">
+    $('.tablelist tbody tr:odd').addClass('odd');
+    </script>
+    
+
+</body>
+
+</html>

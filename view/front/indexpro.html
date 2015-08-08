@@ -1,0 +1,24 @@
+ <!-- mianbao -->    		      
+		                <ol class="breadcrumb">
+						  <li><a href="#">Home</a></li>
+						  <li><a href="#">2013</a></li>
+						  <li class="active">十一月</li>
+						</ol><!-- end mianbao -->	
+	     <!-- div row --><div class="row"><!--  div cheshi -->
+                <?php if(isset($newlist)){ foreach ($newlist as $value) { ?>
+             <div class="col-sm-6 col-md-3">
+		      <div class="thumbnail">
+		         <img src="<?php echo $value['thumb_img0']; ?>" alt="欢迎来到www.id.com" /><p></p>
+		          <p><a href="single.php?goods_id=<?php echo $value['goods_id'];?>"><?php echo $value['goods_name']; ?></a></p>
+		         <p>￥<?php echo $value['shop_price']; ?>元<a href="single.php?goods_id=<?php echo $value['goods_id'];?>" class="btn btn-primary" role="button">查看</a><a href="#" class="btn btn-default" role="button">查看</a> </p> </div></div><?php }  }?><!-- end div cheshi --></div>
+			<div class="clearfix" ></div><!-- end div row -->
+	     <!-- div row2 --><div class="row"> <!--  div cheshi -->
+                <?php foreach ($barlist as $value) { ?>
+             <div class="col-sm-6 col-md-3">
+		      <div class="thumbnail"> <img src="<?php echo $value['thumb_img0']; ?>"  alt="欢迎来到www.id.com" /><p></p><p><a href="single.php?goods_id=<?php echo $value['goods_id'];?>"><?php echo $value['goods_name']; ?></a></p><p>￥<?php echo $value['shop_price']; ?>元
+		            <a href="single.php?goods_id=<?php echo $value['goods_id'];?>" class="btn btn-primary" role="button">查看</a><a href="#" class="btn btn-default" role="button">查看</a></p></div></div>
+						<?php } ?> <!-- end div cheshi --></div>
+			<div class="clearfix" ></div><!-- end div row2 -->     
+     </div><!-- end container --> </div><!-- end mimain --> <!-- div -->
+    <div class="container"></div><!-- end div -->
+    <!-- footer --><?php include('./view/front/footder.html'); ?> <!-- end footer -->

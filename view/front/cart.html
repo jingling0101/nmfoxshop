@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+   <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+   <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+   <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+     <link href="./view/css/idmoban.css" rel="stylesheet">
+ </head>
+ 
+ <body>
+    <!-- nav -->
+    <?php include('./view/front/hearder.html'); ?>
+    <!-- end nav -->
+    <!-- mimain -->
+    <div class="mimain">
+    <div class="container">    															 	 	                    	
+
+
+ <!--  <?php //print_r($cartc); ?> -->
+
+<form class="form-horizontal" role="form" action="trade.php" method="post">
+
+   <div class="form-group">
+      国家 <select name="cont">
+<option value="china">中国</option>
+</select> 
+      省份 <select name="seng">
+<option value="henan">河南省</option>
+</select>   
+  城市 <select name="cars">
+<option value="zhengzou">郑州</option>
+<option value="saab">Saab</option>
+<option value="fiat">Fiat</option>
+<option value="audi">Audi</option>
+</select>  
+<br /> 
+   </div> 
+
+   <div class="form-group">
+   <label for="laname" >具体的地址</label><input type="text" name='dizi' placeholder="具体地址">
+
+   </div>
+
+      <div class="form-group">
+   <label for="ltname" >收货人电话</label><input type="text" name='phone' placeholder="收货人电话">
+   </div>
+
+   <div class="form-group">
+      <label for="lastname" >收货人姓名</label><input type="text" name='souname' placeholder="请输入姓名">
+   </div>
+
+ <div class="form-group">
+<table class="table center table-hover" style="width:80%;margin:0px auto;">
+
+   <tbody>
+    <?php foreach ($cartc as $key => $value) { ?>
+      <tr class="active">
+         <td><input type="hidden" name='id' value="<?php echo $key; ?>"></td>
+         <td><?php echo date("Y/m/d"); ?></td>
+         <td><?php echo $cartc[$key]['name']; ?></td>
+         <td><?php echo $cartc[$key]['price']; ?></td>
+         <td>  <div class="input-group"><input type="text" style="width:50px" class="form-control" value="<?php echo $cartc[$key]['num']; ?>"><span style="width:30px" class="input-group-addon">件</span> </div></td>
+      </tr>
+   <?php }; ?>
+ <tr>
+<input type="hidden" name='jianshu' value="<?php echo $cartc[$key]['num']; ?>">
+  <td></td>
+  <td>
+    <a href='cart.php?car=clear'>清空购物车</a>
+    <hr />
+    <button type="submit" class="btn btn-default">提交定单</button>
+    <button type="submit" class="btn btn-default">选择付款</button>
+  </td>
+    <td></td><td></td>
+
+    <td>  总共<?php if($zgprice){echo $zgprice;} ?>元</td>
+    <input type="hidden" name='zhongjia' value="<?php if($zgprice){echo $zgprice;} ?>">
+</tr>
+   </tbody>
+</table>
+   </div>
+   <div class="form-group">
+      <div class="col-sm-offset-2 col-sm-10">
+                
+         <button type="submit" class="btn btn-default">提交定单</button>
+      </div>
+   </div>
+
+ </form>
+<button class="btn btn-default"><a href='cart.php?car=clear'>清空购物车</a></button>
+     </div><!-- end container -->
+     </div>  <!-- end mimain -->
+
+   <!-- div -->
+    <div class="container">
+    </div>
+    <!-- end div -->
+    <!-- footer -->
+  <?php include('./view/front/footder.html'); ?>
+    <!-- end footer -->
+</body>
+</html>

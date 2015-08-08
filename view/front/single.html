@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+
+  <title>Document</title>
+   <link href="http://libs.baidu.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+   <script src="http://libs.baidu.com/jquery/2.0.0/jquery.min.js"></script>
+   <script src="http://libs.baidu.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="http://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+     <link href="./view/css/idmoban.css" rel="stylesheet">
+ </head>
+ <body>
+    <!-- nav -->
+    <?php include('./view/front/hearder.html'); ?>
+    <!-- end nav --> 
+		     <!-- mimain -->
+		   <div class="mimain">
+             <div class="container"> 		
+		        <!-- mianban -->
+				<!-- end mianban -->
+	     <!-- div row1 -->
+        	<div class="row">               
+                     <!--  div chanpinleft -->
+                 <div class="col-md-6 col-xs-12 col-sm-12">
+         	             <div class="col-md-12">
+								<div class="carousel slide" id="carousel-272319">
+									<div class="carousel-inner" >
+										<div class="item active"><a href="#" class="thumbnail"><img src="<?php echo $gods['thumb_img0']; ?>"  alt="idguo.comn" height="400px" width="400px" /></a></div>
+										<?php if ($gods['thumb_img1']!=='') { ?>									
+										<div class="item"><a href="#" class="thumbnail"><img src="<?php echo $gods['thumb_img1']; ?>"  alt="idguo" height="400px" width="400px" /></a></div><?php  } ?>
+										<?php if ($gods['thumb_img2']!=='') { ?>									
+										<div class="item"><a href="#" class="thumbnail"><img src="<?php echo $gods['thumb_img2']; ?>"  alt="idguo" height="400px" width="400px" /></a></div><?php  } ?>	
+										<?php if ($gods['thumb_img3']!=='') { ?>									
+										<div class="item"><a href="#" class="thumbnail"><img src="<?php echo $gods['thumb_img3']; ?>"  alt="idguo" height="400px" width="400px" /></a></div><?php  } ?>	
+										<?php if ($gods['thumb_img4']!=='') { ?>									
+										<div class="item"><a href="#" class="thumbnail"><img src="<?php echo $gods['thumb_img4']; ?>"  alt="idguo" height="400px" width="400px" /></a></div><?php  } ?>												
+								    </div>
+								<a class="left carousel" data-slide="prev" href="#carousel-272319">&lsaquo;上一张</a> <a class="left carousel" data-slide="next" href="#carousel-272319">下一张&rsaquo;</a>
+							</div>
+						</div>
+                 </div>
+                 <!--  end div chanpinleft -->
+                 <!--   div chanpinright -->
+                    <div class="col-md-6 col-xs-12 col-sm-12">
+			           <h4><?php echo $gods['goods_name']; ?></h4>
+			           <div class="alert alert-warning"><span style="float:left;"><p style="color:red;font-size:16px;">现价：￥<?php echo $gods['shop_price']; ?></p></span><p>总数量：<code>100</code></p></div>
+			       <p><code> 卖家承诺48小时内发货</code></p> 		
+			       <div class="clearfix" ></div>  <br />
+			<div class="col-md-12">
+				<dl class="siz2">
+					<dt class="col-md-3">尺码：</dt>
+						<ul class="col-md-9">
+						<li>34</li><li>36</li><li>38</li><li>40</li><li>42</li>
+					    </ul>		   
+				</dl></div>
+				   <br />
+				<div class="col-md-12">
+				<dl class="siz2">
+					<dt class="col-md-3">颜色：</dt>
+						<ul class="col-md-9">
+						<li>红色</li><li>大戏色</li>
+						<li>红色</li><li>大戏色</li>
+						<li>红色</li><li>大戏色</li>
+					    </ul>		   
+				</dl></div>
+				  <br />
+				<div class="col-md-12">
+				<dl class="siz2">
+					<dt class="col-md-3">数量：</dt>
+						<ul class="col-md-9">
+						<li>100</li>
+					    </ul>		   
+				</dl></div>
+				  <br />
+				      <p><code>卖家承诺48小时内发货</code></p>
+				     <div class="alert alert-warning">
+					  <select>
+					  <option>Volvo</option>
+					  <option>Saab</option>
+					  <option>Mercedes</option>
+					  <option>Audi</option>
+					</select>
+					<select>
+					  <option>Volvo</option>
+					  <option>Saab</option>
+					  <option>Mercedes</option>
+					  <option>Audi</option>
+					</select>
+					<form action="cart.php" method="post">
+            <input type="hidden" name='goods_id' value="<?php echo $gods['goods_id'];?>">
+			<button class="btn btn-info" type="submit">购买</button> &nbsp;
+			<a href="cart.php?car=buy"><button class="btn btn-danger" type="submit">加入购物车</button></a>  
+                      
+					</form>
+			       </div>
+               </div>
+             <!--  end div chanpinright -->
+      		
+			</div>
+			<div class="clearfix" ></div>
+	<!-- end div row1 -->
+
+
+	<!-- div row2 -->
+
+        	<div class="row">
+        		<div class="col-md-12 col-xs-12 col-sm-12">
+
+			        		<div class="tabbable" id="tabs-31819"> 
+			<ul class="nav nav-tabs">
+			<li class="active"><a href="#panel-659041" data-toggle="tab" contenteditable="true">详情</a></li>
+			<li class=""><a href="#panel-267352" data-toggle="tab" contenteditable="true">第二部分</a></li>
+			<li class=""><a href="#panel-267353" data-toggle="tab" contenteditable="true">第3部分</a></li>
+			<li class=""><a href="#panel-267354" data-toggle="tab" contenteditable="true">第4部分</a></li>
+			</ul>
+			<div class="tab-content">
+			<div class="tab-pane active" id="panel-659041" contenteditable="true">
+			<p>第一部分内容.</p>
+
+         <span class="hidden-xs">特别小型</span>
+         <span class="visible-xs ">✔ 特别小型<?php echo $godsxq['wireless_desc']; ?></span>
+  
+         <span class="hidden-sm">小型</span>
+         <span class="visible-sm ">✔ 小型<?php echo $godsxq['wireless_desc']; ?></span>
+ 
+         <span class="hidden-md">中型</span>
+         <span class="visible-md">✔ 中型<?php echo $godsxq['description']; ?></span>
+     
+         <span class="hidden-lg">大型</span>
+         <span class="visible-lg">✔ 大型<?php echo $godsxq['description']; ?></span>		
+
+			</div>
+			<div class="tab-pane" id="panel-267352" contenteditable="true">
+			<p>第二部分内容.</p>
+			</div>
+
+			<div class="tab-pane" id="panel-267353" contenteditable="true">
+			<p>第3部分内容.</p>
+			</div>
+
+			<div class="tab-pane" id="panel-267354" contenteditable="true">
+			<p>第4部分内容.</p>
+			</div>
+
+
+			</div>
+			</div>
+			        		
+         	</div></div>
+        	<div class="clearfix" ></div>
+	<!-- end div row2 -->
+    
+     </div><!-- end container -->
+     </div>
+
+    <!-- end mimain -->
+
+    <!-- footer -->
+  <?php include('./view/front/footder.html'); ?>
+    <!-- end footer -->
+
+</body>
+</html>

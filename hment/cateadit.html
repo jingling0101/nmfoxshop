@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>修改分类</title>
+<link href="../hment/css/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+function formSubmit()
+{
+document.getElementById("myForm").submit()
+}
+</script>
+</head>
+
+<body>
+
+	<div class="place">
+    <span>位置：</span>
+    <ul class="placeul">
+    <li><a href="#">首页</a></li>
+    <li><a href="#">表单</a></li>
+    </ul>
+    </div>
+    <form id="myForm" action="cateditact.php" method="post" enctype="multipart/form-data">
+    <div class="formbody">
+    
+    <div class="formtitle"><span>基本信息</span></div>
+    
+    <ul class="forminfo">
+    <li><label>分类名字</label><input name="cat_name" type="text" class="dfinput" value='<?php echo $catinfo['cat_name']; ?>'/>
+        <i>标题不能超过30个字符</i></li>
+        
+      <li><label>所属分类</label>  <select name="parent_id" class="dfinput" >
+                     <option value="0">顶级分类</option>
+
+                        <?php foreach($catlist as $value){ ?>
+                        <option value="<?php echo $value['cat_id'];
+                          
+                         ?>"   
+                         <?php echo $value['cat_id']==$catinfo['parent_id']?"selected":''  ?> 
+                            >
+                        <?php echo str_repeat('&nbsp',$value['lev']), $value['cat_name'] ?></option>
+                        <?php } ?>
+                      
+                      </select></li>
+
+
+    <li><label>关键字</label><input name="" type="text" class="dfinput" />
+        <i>多个关键字用,隔开</i></li>
+
+    
+
+    <li><label>是否显示</label><input name="" type="text" class="dfinput" value="#" /></li>
+
+    <li><label>介绍</label><textarea name="intro" cols="" rows="" class="textinput"><?php echo $catinfo['intro']; ?></textarea></li>
+
+
+
+    <li><label>&nbsp;</label>
+    <input type="hidden" name="cat_id" value="<?php echo $catinfo['cat_id']; ?>" />
+    <input type="button" class="btn" onclick="formSubmit()" value="提交"/>
+    
+    <input type="reset" class="btn" value=" 重置 " />
+    </li>
+  
+        
+    
+    
+    
+    </ul>
+    
+    
+    </div>
+    
+    
+
+</form>
+
+</body>
+
+</html>

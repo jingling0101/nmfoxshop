@@ -1,0 +1,41 @@
+    <!-- nav -->
+    <div class="container">
+		<div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">my.com</a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">  
+            <li class="active"><a href="index.php"><span class="glyphicon glyphicon-home" >|Home主页</span></a></li>
+            <li><a href="cate.php"><span class="glyphicon glyphicon-list" >|Cate分类</span></a></li>
+            <li><a href="single.php?goods_id=16"><span class="glyphicon glyphicon-tint" >|Sing产品</span></a></li>    
+            <li><a href="cart.php"><span class="glyphicon glyphicon-shopping-cart" >|Cart</span></a></li>
+            <li><a href="#shop"><span class="glyphicon glyphicon-star" >|stat</span></a></li>
+            <li><a href="#shop"><span class="glyphicon glyphicon-user" >|user</span></a></li>
+           
+          </ul>
+                   <ul class="nav navbar-nav navbar-right">
+                  <?php if(isset($_SESSION['username'])&&$_SESSION['username']!==''){ ?>
+                    <a class="navbar-brand" href="#"><?php echo $_SESSION['username']; ?></a><a class="navbar-brand" href="logout.php">退出</a> 
+                    <?php } else { ?>
+               			<a class="navbar-brand" href="login.php">登陆</a>	
+                    <?php } ?>	 
+				          </ul>
+        </div><!-- /.nav-collapse -->
+      </div><!-- /.container -->
+    </div>		
+    </div>  <div class="clearfix" ></div>
+    <!-- end nav -->
+    <div class="daohang2">
+  		 <div class="container">
+            <div class="sang1"></div> 
+       </div>  
+	  </div>
+    <div class="sang2"></div> 

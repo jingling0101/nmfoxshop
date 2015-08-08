@@ -1,0 +1,7160 @@
+use muyi_data
+1432224200
+set names utf8
+1432224200
+select * from muyi_category
+1432224200
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432224200
+select * from muyi_category where cat_id = 1
+1432224200
+select * from muyi_category
+1432224200
+select * from muyi_category
+1432224200
+select * from muyi_category
+1432224200
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432224200
+use muyi_data
+1432224201
+set names utf8
+1432224201
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432224201
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432224201
+use muyi_data
+1432224202
+set names utf8
+1432224202
+select * from muyi_category
+1432224202
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432224202
+select * from muyi_category where cat_id = 1
+1432224202
+select * from muyi_category
+1432224202
+select * from muyi_category
+1432224202
+select * from muyi_category
+1432224202
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432224202
+use muyi_data
+1432224203
+set names utf8
+1432224203
+use muyi_data
+1432224210
+set names utf8
+1432224210
+use muyi_data
+1432224212
+set names utf8
+1432224212
+use muyi_data
+1432224215
+set names utf8
+1432224215
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 15
+1432224215
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 15
+1432224215
+use muyi_data
+1432224216
+set names utf8
+1432224216
+select * from muyi_goods where goods_id = 15
+1432224216
+use muyi_data
+1432225452
+set names utf8
+1432225452
+select * from muyi_goods where goods_id = 15
+1432225452
+use muyi_data
+1432225455
+set names utf8
+1432225455
+select * from muyi_goods where goods_id = 15
+1432225455
+use muyi_data
+1432227910
+set names utf8
+1432227910
+select * from muyi_goods where goods_id = 15
+1432227910
+use muyi_data
+1432368979
+set names utf8
+1432368980
+select * from muyi_goods where goods_id = 15
+1432368980
+use muyi_data
+1432390194
+set names utf8
+1432390194
+select * from muyi_category
+1432390195
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432390196
+select * from muyi_category where cat_id = 1
+1432390196
+select * from muyi_category
+1432390196
+select * from muyi_category
+1432390196
+select * from muyi_category
+1432390196
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432390196
+use muyi_data
+1432390206
+set names utf8
+1432390206
+select * from muyi_category
+1432390206
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432390206
+select * from muyi_category where cat_id = 1
+1432390206
+select * from muyi_category
+1432390206
+select * from muyi_category
+1432390206
+select * from muyi_category
+1432390206
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432390206
+use muyi_data
+1432390207
+set names utf8
+1432390207
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432390207
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432390208
+use muyi_data
+1432390210
+set names utf8
+1432390210
+use muyi_data
+1432390213
+set names utf8
+1432390213
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432390213
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432390213
+use muyi_data
+1432390215
+set names utf8
+1432390215
+select * from muyi_goods where goods_id = 16
+1432390215
+use muyi_data
+1432390369
+set names utf8
+1432390369
+select * from muyi_goods where goods_id = 16
+1432390369
+use muyi_data
+1432470117
+set names utf8
+1432470117
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1432470117
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1432470117
+use muyi_data
+1432470119
+set names utf8
+1432470119
+select * from muyi_goods where goods_id = 10
+1432470119
+use muyi_data
+1432471314
+set names utf8
+1432471314
+select * from muyi_goods where goods_id = 10
+1432471314
+use muyi_data
+1432471318
+set names utf8
+1432471318
+select * from muyi_category
+1432471318
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432471318
+select * from muyi_category where cat_id = 1
+1432471318
+select * from muyi_category
+1432471318
+select * from muyi_category
+1432471318
+select * from muyi_category
+1432471318
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432471318
+use muyi_data
+1432471319
+set names utf8
+1432471319
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432471319
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432471319
+use muyi_data
+1432471320
+set names utf8
+1432471320
+use muyi_data
+1432471321
+set names utf8
+1432471321
+use muyi_data
+1432471322
+set names utf8
+1432471322
+use muyi_data
+1432471322
+set names utf8
+1432471322
+use muyi_data
+1432471323
+set names utf8
+1432471323
+use muyi_data
+1432471323
+set names utf8
+1432471323
+use muyi_data
+1432471324
+set names utf8
+1432471324
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432471324
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432471324
+use muyi_data
+1432471324
+set names utf8
+1432471324
+use muyi_data
+1432471496
+set names utf8
+1432471496
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1432471496
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1432471496
+use muyi_data
+1432471503
+set names utf8
+1432471503
+select * from muyi_goods where goods_id = 23
+1432471503
+use muyi_data
+1432471631
+set names utf8
+1432471631
+select * from muyi_goods where goods_id = 23
+1432471631
+use muyi_data
+1432471632
+set names utf8
+1432471632
+select * from muyi_category
+1432471632
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432471632
+select * from muyi_category where cat_id = 1
+1432471632
+select * from muyi_category
+1432471632
+select * from muyi_category
+1432471632
+select * from muyi_category
+1432471632
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432471632
+use muyi_data
+1432471632
+set names utf8
+1432471632
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432471632
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432471632
+use muyi_data
+1432471633
+set names utf8
+1432471633
+use muyi_data
+1432471634
+set names utf8
+1432471634
+use muyi_data
+1432471635
+set names utf8
+1432471635
+use muyi_data
+1432471638
+set names utf8
+1432471638
+use muyi_data
+1432471639
+set names utf8
+1432471639
+use muyi_data
+1432471640
+set names utf8
+1432471640
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432471640
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432471640
+use muyi_data
+1432471640
+set names utf8
+1432471640
+use muyi_data
+1432471694
+set names utf8
+1432471694
+use muyi_data
+1432471765
+set names utf8
+1432471765
+use muyi_data
+1432471788
+set names utf8
+1432471788
+use muyi_data
+1432471805
+set names utf8
+1432471805
+use muyi_data
+1432471806
+set names utf8
+1432471806
+use muyi_data
+1432471806
+set names utf8
+1432471806
+use muyi_data
+1432471807
+set names utf8
+1432471807
+use muyi_data
+1432471949
+set names utf8
+1432471949
+use muyi_data
+1432471953
+set names utf8
+1432471953
+use muyi_data
+1432471970
+set names utf8
+1432471970
+use muyi_data
+1432471971
+set names utf8
+1432471971
+use muyi_data
+1432472051
+set names utf8
+1432472051
+use muyi_data
+1432472066
+set names utf8
+1432472066
+use muyi_data
+1432472097
+set names utf8
+1432472097
+use muyi_data
+1432472098
+set names utf8
+1432472098
+use muyi_data
+1432472100
+set names utf8
+1432472100
+use muyi_data
+1432472109
+set names utf8
+1432472109
+use muyi_data
+1432472110
+set names utf8
+1432472110
+use muyi_data
+1432472137
+set names utf8
+1432472137
+use muyi_data
+1432472150
+set names utf8
+1432472150
+use muyi_data
+1432472242
+set names utf8
+1432472242
+use muyi_data
+1432472254
+set names utf8
+1432472254
+use muyi_data
+1432472266
+set names utf8
+1432472266
+use muyi_data
+1432472287
+set names utf8
+1432472287
+use muyi_data
+1432472288
+set names utf8
+1432472288
+use muyi_data
+1432472288
+set names utf8
+1432472288
+use muyi_data
+1432472404
+set names utf8
+1432472404
+use muyi_data
+1432472462
+set names utf8
+1432472463
+use muyi_data
+1432472463
+set names utf8
+1432472463
+use muyi_data
+1432472464
+set names utf8
+1432472464
+use muyi_data
+1432472517
+set names utf8
+1432472517
+use muyi_data
+1432472530
+set names utf8
+1432472530
+use muyi_data
+1432472531
+set names utf8
+1432472531
+use muyi_data
+1432472537
+set names utf8
+1432472537
+use muyi_data
+1432472547
+set names utf8
+1432472547
+use muyi_data
+1432472548
+set names utf8
+1432472548
+use muyi_data
+1432472620
+set names utf8
+1432472620
+use muyi_data
+1432472651
+set names utf8
+1432472651
+use muyi_data
+1432472679
+set names utf8
+1432472679
+use muyi_data
+1432472711
+set names utf8
+1432472711
+use muyi_data
+1432472715
+set names utf8
+1432472715
+use muyi_data
+1432472716
+set names utf8
+1432472716
+use muyi_data
+1432472716
+set names utf8
+1432472716
+use muyi_data
+1432472717
+set names utf8
+1432472717
+use muyi_data
+1432472718
+set names utf8
+1432472718
+use muyi_data
+1432472723
+set names utf8
+1432472723
+use muyi_data
+1432472764
+set names utf8
+1432472764
+use muyi_data
+1432472764
+set names utf8
+1432472764
+use muyi_data
+1432472764
+set names utf8
+1432472764
+use muyi_data
+1432472764
+set names utf8
+1432472765
+use muyi_data
+1432472774
+set names utf8
+1432472774
+use muyi_data
+1432472837
+set names utf8
+1432472837
+use muyi_data
+1432472840
+set names utf8
+1432472840
+use muyi_data
+1432472840
+set names utf8
+1432472840
+use muyi_data
+1432472840
+set names utf8
+1432472840
+use muyi_data
+1432472841
+set names utf8
+1432472841
+use muyi_data
+1432473156
+set names utf8
+1432473156
+use muyi_data
+1432473156
+set names utf8
+1432473156
+use muyi_data
+1432473186
+set names utf8
+1432473186
+use muyi_data
+1432473186
+set names utf8
+1432473186
+use muyi_data
+1432473208
+set names utf8
+1432473208
+use muyi_data
+1432473271
+set names utf8
+1432473271
+use muyi_data
+1432473290
+set names utf8
+1432473290
+use muyi_data
+1432473307
+set names utf8
+1432473307
+use muyi_data
+1432473308
+set names utf8
+1432473308
+use muyi_data
+1432473309
+set names utf8
+1432473309
+use muyi_data
+1432473309
+set names utf8
+1432473309
+use muyi_data
+1432473309
+set names utf8
+1432473309
+use muyi_data
+1432473310
+set names utf8
+1432473310
+use muyi_data
+1432473310
+set names utf8
+1432473310
+use muyi_data
+1432473318
+set names utf8
+1432473318
+use muyi_data
+1432473340
+set names utf8
+1432473340
+use muyi_data
+1432473369
+set names utf8
+1432473369
+use muyi_data
+1432473787
+set names utf8
+1432473787
+use muyi_data
+1432473846
+set names utf8
+1432473846
+use muyi_data
+1432474071
+set names utf8
+1432474071
+use muyi_data
+1432474439
+set names utf8
+1432474439
+use muyi_data
+1432474535
+set names utf8
+1432474535
+use muyi_data
+1432474603
+set names utf8
+1432474603
+select * from muyi_category
+1432474603
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432474603
+select * from muyi_category where cat_id = 1
+1432474603
+select * from muyi_category
+1432474603
+select * from muyi_category
+1432474603
+select * from muyi_category
+1432474603
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432474603
+use muyi_data
+1432474604
+set names utf8
+1432474604
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432474604
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432474604
+use muyi_data
+1432474605
+set names utf8
+1432474605
+use muyi_data
+1432474607
+set names utf8
+1432474607
+use muyi_data
+1432474610
+set names utf8
+1432474610
+select * from muyi_category
+1432474610
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432474610
+select * from muyi_category where cat_id = 1
+1432474610
+select * from muyi_category
+1432474610
+select * from muyi_category
+1432474610
+select * from muyi_category
+1432474610
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432474610
+use muyi_data
+1432474610
+set names utf8
+1432474610
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432474610
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432474610
+use muyi_data
+1432474611
+set names utf8
+1432474611
+use muyi_data
+1432474612
+set names utf8
+1432474612
+use muyi_data
+1432474613
+set names utf8
+1432474613
+use muyi_data
+1432474641
+set names utf8
+1432474641
+use muyi_data
+1432476914
+set names utf8
+1432476914
+use muyi_data
+1432477186
+set names utf8
+1432477186
+use muyi_data
+1432478009
+set names utf8
+1432478009
+use muyi_data
+1432478013
+set names utf8
+1432478013
+use muyi_data
+1432478017
+set names utf8
+1432478017
+select * from muyi_category
+1432478017
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1432478017
+select * from muyi_category where cat_id = 1
+1432478017
+select * from muyi_category
+1432478017
+select * from muyi_category
+1432478017
+select * from muyi_category
+1432478017
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1432478017
+use muyi_data
+1432478017
+set names utf8
+1432478017
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432478017
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432478017
+use muyi_data
+1432478020
+set names utf8
+1432478020
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432478020
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432478020
+use muyi_data
+1432478023
+set names utf8
+1432478023
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1432478023
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1432478023
+use muyi_data
+1433040240
+set names utf8
+1433040240
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1433040241
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1433040241
+use muyi_data
+1433040243
+set names utf8
+1433040243
+select * from muyi_goods where goods_id = 23
+1433040243
+use muyi_data
+1433040252
+set names utf8
+1433040252
+select * from muyi_goods where goods_id = 23
+1433040252
+use muyi_data
+1433040382
+set names utf8
+1433040382
+select * from muyi_goods where goods_id = 23
+1433040382
+use muyi_data
+1433040383
+set names utf8
+1433040383
+select * from muyi_goods where goods_id = 23
+1433040383
+use muyi_data
+1433040400
+set names utf8
+1433040400
+select * from muyi_goods where goods_id = 23
+1433040400
+use muyi_data
+1433040411
+set names utf8
+1433040411
+select * from muyi_goods where goods_id = 23
+1433040411
+use muyi_data
+1433040411
+set names utf8
+1433040411
+select * from muyi_goods where goods_id = 23
+1433040411
+use muyi_data
+1433040432
+set names utf8
+1433040432
+select * from muyi_goods where goods_id = 23
+1433040432
+use muyi_data
+1433040451
+set names utf8
+1433040451
+select * from muyi_goods where goods_id = 23
+1433040451
+use muyi_data
+1433040473
+set names utf8
+1433040473
+select * from muyi_goods where goods_id = 23
+1433040473
+use muyi_data
+1433040494
+set names utf8
+1433040494
+select * from muyi_goods where goods_id = 23
+1433040494
+use muyi_data
+1433040509
+set names utf8
+1433040509
+select * from muyi_goods where goods_id = 23
+1433040509
+use muyi_data
+1433040531
+set names utf8
+1433040531
+select * from muyi_goods where goods_id = 23
+1433040531
+use muyi_data
+1433040549
+set names utf8
+1433040549
+select * from muyi_goods where goods_id = 23
+1433040549
+use muyi_data
+1433040557
+set names utf8
+1433040557
+select * from muyi_goods where goods_id = 23
+1433040557
+use muyi_data
+1433040589
+set names utf8
+1433040589
+select * from muyi_goods where goods_id = 23
+1433040589
+use muyi_data
+1433040627
+set names utf8
+1433040627
+select * from muyi_goods where goods_id = 23
+1433040627
+use muyi_data
+1433040656
+set names utf8
+1433040656
+select * from muyi_goods where goods_id = 23
+1433040656
+use muyi_data
+1433040670
+set names utf8
+1433040670
+select * from muyi_goods where goods_id = 23
+1433040670
+use muyi_data
+1433040671
+set names utf8
+1433040671
+select * from muyi_goods where goods_id = 23
+1433040671
+use muyi_data
+1433040690
+set names utf8
+1433040690
+select * from muyi_goods where goods_id = 23
+1433040690
+use muyi_data
+1433040728
+set names utf8
+1433040728
+select * from muyi_goods where goods_id = 23
+1433040728
+use muyi_data
+1433040763
+set names utf8
+1433040763
+select * from muyi_goods where goods_id = 23
+1433040763
+use muyi_data
+1433040817
+set names utf8
+1433040817
+select * from muyi_goods where goods_id = 23
+1433040817
+use muyi_data
+1433040825
+set names utf8
+1433040825
+select * from muyi_goods where goods_id = 23
+1433040825
+use muyi_data
+1433040837
+set names utf8
+1433040837
+select * from muyi_goods where goods_id = 23
+1433040837
+use muyi_data
+1433040876
+set names utf8
+1433040876
+select * from muyi_goods where goods_id = 23
+1433040876
+use muyi_data
+1433040899
+set names utf8
+1433040899
+select * from muyi_goods where goods_id = 23
+1433040899
+use muyi_data
+1433040913
+set names utf8
+1433040913
+select * from muyi_goods where goods_id = 23
+1433040913
+use muyi_data
+1433041034
+set names utf8
+1433041034
+use muyi_data
+1433041036
+set names utf8
+1433041036
+use muyi_data
+1433041036
+set names utf8
+1433041036
+use muyi_data
+1433041036
+set names utf8
+1433041036
+use muyi_data
+1433041038
+set names utf8
+1433041038
+use muyi_data
+1433041038
+set names utf8
+1433041038
+use muyi_data
+1433041038
+set names utf8
+1433041039
+use muyi_data
+1433041074
+set names utf8
+1433041074
+use muyi_data
+1433041122
+set names utf8
+1433041122
+use muyi_data
+1433041138
+set names utf8
+1433041138
+use muyi_data
+1433041149
+set names utf8
+1433041149
+use muyi_data
+1433041267
+set names utf8
+1433041267
+use muyi_data
+1433041268
+set names utf8
+1433041268
+use muyi_data
+1433041269
+set names utf8
+1433041269
+use muyi_data
+1433041269
+set names utf8
+1433041269
+use muyi_data
+1433041405
+set names utf8
+1433041405
+use muyi_data
+1433041414
+set names utf8
+1433041414
+use muyi_data
+1433056734
+set names utf8
+1433056734
+use muyi_data
+1433056735
+set names utf8
+1433056735
+use muyi_data
+1433056736
+set names utf8
+1433056736
+use muyi_data
+1433061442
+set names utf8
+1433061442
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1433061442
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1433061442
+use muyi_data
+1433061445
+set names utf8
+1433061445
+select * from muyi_goods where goods_id = 10
+1433061445
+use muyi_data
+1433068134
+set names utf8
+1433068134
+select * from muyi_goods where goods_id = 10
+1433068134
+use muyi_data
+1433068138
+set names utf8
+1433068138
+use muyi_data
+1433068138
+set names utf8
+1433068138
+use muyi_data
+1433068139
+set names utf8
+1433068139
+use muyi_data
+1433068139
+set names utf8
+1433068139
+use muyi_data
+1433068139
+set names utf8
+1433068139
+use muyi_data
+1433068139
+set names utf8
+1433068139
+use muyi_data
+1433068140
+set names utf8
+1433068140
+use muyi_data
+1433068140
+set names utf8
+1433068140
+use muyi_data
+1433068140
+set names utf8
+1433068140
+use muyi_data
+1433076705
+set names utf8
+1433076705
+use muyi_data
+1433076709
+set names utf8
+1433076709
+use muyi_data
+1433076773
+set names utf8
+1433076773
+use muyi_data
+1433076777
+set names utf8
+1433076777
+select * from muyi_category
+1433076777
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1433076777
+select * from muyi_category where cat_id = 1
+1433076777
+select * from muyi_category
+1433076777
+select * from muyi_category
+1433076777
+select * from muyi_category
+1433076777
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1433076777
+use muyi_data
+1433076777
+set names utf8
+1433076777
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1433076777
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1433076777
+use muyi_data
+1433076780
+set names utf8
+1433076780
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1433076780
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1433076780
+use muyi_data
+1433076782
+set names utf8
+1433076782
+select * from muyi_goods where goods_id = 16
+1433076782
+use muyi_data
+1433076949
+set names utf8
+1433076949
+select * from muyi_category
+1433076949
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1433076949
+select * from muyi_category where cat_id = 1
+1433076949
+select * from muyi_category
+1433076949
+select * from muyi_category
+1433076949
+select * from muyi_category
+1433076949
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1433076949
+use muyi_data
+1433076952
+set names utf8
+1433076952
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1433076952
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1433076952
+use muyi_data
+1433076959
+set names utf8
+1433076959
+select * from muyi_category
+1433076959
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1433076959
+select * from muyi_category where cat_id = 1
+1433076959
+select * from muyi_category
+1433076959
+select * from muyi_category
+1433076959
+select * from muyi_category
+1433076959
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1433076959
+use muyi_data
+1433076968
+set names utf8
+1433076968
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1433076968
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1433076968
+use muyi_data
+1433076970
+set names utf8
+1433076970
+select * from muyi_goods where goods_id = 10
+1433076970
+use muyi_data
+1433077015
+set names utf8
+1433077015
+select * from muyi_category
+1433077015
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1433077015
+select * from muyi_category where cat_id = 1
+1433077015
+select * from muyi_category
+1433077015
+select * from muyi_category
+1433077015
+select * from muyi_category
+1433077015
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1433077015
+use muyi_data
+1433079611
+set names utf8
+1433079611
+select * from muyi_category
+1433079611
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1433079611
+select * from muyi_category where cat_id = 1
+1433079611
+select * from muyi_category
+1433079611
+select * from muyi_category
+1433079611
+select * from muyi_category
+1433079611
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1433079611
+use muyi_data
+1433577835
+set names utf8
+1433577835
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1433577835
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1433577835
+use muyi_data
+1433577837
+set names utf8
+1433577837
+select * from muyi_goods where goods_id = 10
+1433577837
+use muyi_data
+1433577842
+set names utf8
+1433577842
+select * from muyi_goods where goods_id = 10
+1433577842
+use muyi_data
+1433577842
+set names utf8
+1433577842
+select * from muyi_goods where goods_id = 10
+1433577842
+use muyi_data
+1433577843
+set names utf8
+1433577843
+use muyi_data
+1433578052
+set names utf8
+1433578052
+use muyi_data
+1433578052
+set names utf8
+1433578052
+use muyi_data
+1433578971
+set names utf8
+1433578971
+use muyi_data
+1434115040
+set names utf8
+1434115040
+select * from muyi_category
+1434115040
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1434115040
+select * from muyi_category where cat_id = 1
+1434115040
+select * from muyi_category
+1434115040
+select * from muyi_category
+1434115040
+select * from muyi_category
+1434115040
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1434115040
+use muyi_data
+1434115041
+set names utf8
+1434115041
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1434115041
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1434115041
+use muyi_data
+1434115044
+set names utf8
+1434115044
+use muyi_data
+1434115045
+set names utf8
+1434115045
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1434115045
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1434115045
+use muyi_data
+1434115076
+set names utf8
+1434115076
+select * from muyi_goods where goods_id = 16
+1434115076
+use muyi_data
+1434115078
+set names utf8
+1434115078
+use muyi_data
+1434115079
+set names utf8
+1434115079
+use muyi_data
+1434120756
+set names utf8
+1434120756
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434120756
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434120756
+use muyi_data
+1434120757
+set names utf8
+1434120757
+select * from muyi_goods where goods_id = 23
+1434120757
+use muyi_data
+1434120761
+set names utf8
+1434120761
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434120761
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434120761
+use muyi_data
+1434120766
+set names utf8
+1434120766
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1434120766
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1434120766
+use muyi_data
+1434120767
+set names utf8
+1434120767
+select * from muyi_goods where goods_id = 10
+1434120767
+use muyi_data
+1434120971
+set names utf8
+1434120971
+use muyi_data
+1434120975
+set names utf8
+1434120975
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434120975
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434120975
+use muyi_data
+1434120977
+set names utf8
+1434120977
+select * from muyi_goods where goods_id = 23
+1434120977
+use muyi_data
+1434120979
+set names utf8
+1434120979
+select * from muyi_goods where goods_id = 23
+1434120979
+use muyi_data
+1434121010
+set names utf8
+1434121010
+select * from muyi_goods where goods_id = 23
+1434121010
+use muyi_data
+1434121036
+set names utf8
+1434121036
+select * from muyi_goods where goods_id = 23
+1434121036
+use muyi_data
+1434121037
+set names utf8
+1434121037
+select * from muyi_goods where goods_id = 23
+1434121037
+use muyi_data
+1434121048
+set names utf8
+1434121048
+select * from muyi_goods where goods_id = 23
+1434121048
+use muyi_data
+1434121114
+set names utf8
+1434121114
+select * from muyi_goods where goods_id = 23
+1434121114
+use muyi_data
+1434121115
+set names utf8
+1434121115
+select * from muyi_goods where goods_id = 23
+1434121115
+use muyi_data
+1434121115
+set names utf8
+1434121115
+select * from muyi_goods where goods_id = 23
+1434121115
+use muyi_data
+1434121116
+set names utf8
+1434121116
+select * from muyi_goods where goods_id = 23
+1434121116
+use muyi_data
+1434121116
+set names utf8
+1434121116
+select * from muyi_goods where goods_id = 23
+1434121116
+use muyi_data
+1434121116
+set names utf8
+1434121116
+select * from muyi_goods where goods_id = 23
+1434121116
+use muyi_data
+1434121233
+set names utf8
+1434121233
+select * from muyi_goods where goods_id = 23
+1434121233
+use muyi_data
+1434121239
+set names utf8
+1434121239
+select * from muyi_goods where goods_id = 23
+1434121239
+use muyi_data
+1434121269
+set names utf8
+1434121269
+select * from muyi_goods where goods_id = 23
+1434121269
+use muyi_data
+1434121271
+set names utf8
+1434121271
+select * from muyi_goods where goods_id = 23
+1434121271
+use muyi_data
+1434121274
+set names utf8
+1434121274
+select * from muyi_goods where goods_id = 23
+1434121274
+use muyi_data
+1434121276
+set names utf8
+1434121276
+select * from muyi_goods where goods_id = 23
+1434121276
+use muyi_data
+1434121303
+set names utf8
+1434121303
+select * from muyi_goods where goods_id = 23
+1434121303
+use muyi_data
+1434121305
+set names utf8
+1434121305
+select * from muyi_goods where goods_id = 23
+1434121305
+use muyi_data
+1434121388
+set names utf8
+1434121388
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1434121388
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1434121388
+use muyi_data
+1434121390
+set names utf8
+1434121390
+select * from muyi_goods where goods_id = 10
+1434121390
+use muyi_data
+1434121392
+set names utf8
+1434121392
+select * from muyi_goods where goods_id = 23
+1434121392
+use muyi_data
+1434121396
+set names utf8
+1434121396
+use muyi_data
+1434121533
+set names utf8
+1434121533
+use muyi_data
+1434121542
+set names utf8
+1434121542
+select * from muyi_goods where goods_id = 10
+1434121542
+use muyi_data
+1434121565
+set names utf8
+1434121565
+select * from muyi_goods where goods_id = 10
+1434121565
+use muyi_data
+1434121658
+set names utf8
+1434121658
+select * from muyi_goods where goods_id = 10
+1434121658
+use muyi_data
+1434121678
+set names utf8
+1434121678
+use muyi_data
+1434121728
+set names utf8
+1434121728
+use muyi_data
+1434121730
+set names utf8
+1434121730
+use muyi_data
+1434121731
+set names utf8
+1434121731
+use muyi_data
+1434121733
+set names utf8
+1434121733
+use muyi_data
+1434121734
+set names utf8
+1434121734
+use muyi_data
+1434121736
+set names utf8
+1434121736
+select * from muyi_goods where goods_id = 10
+1434121736
+use muyi_data
+1434121738
+set names utf8
+1434121738
+select * from muyi_goods where goods_id = 10
+1434121738
+use muyi_data
+1434121741
+set names utf8
+1434121741
+select * from muyi_goods where goods_id = 10
+1434121741
+use muyi_data
+1434121762
+set names utf8
+1434121762
+use muyi_data
+1434121818
+set names utf8
+1434121818
+use muyi_data
+1434121819
+set names utf8
+1434121819
+use muyi_data
+1434121836
+set names utf8
+1434121836
+use muyi_data
+1434121839
+set names utf8
+1434121839
+select * from muyi_goods where goods_id = 10
+1434121839
+use muyi_data
+1434121842
+set names utf8
+1434121842
+use muyi_data
+1434121849
+set names utf8
+1434121849
+use muyi_data
+1434121854
+set names utf8
+1434121854
+use muyi_data
+1434121855
+set names utf8
+1434121855
+use muyi_data
+1434121855
+set names utf8
+1434121855
+use muyi_data
+1434121855
+set names utf8
+1434121855
+use muyi_data
+1434121858
+set names utf8
+1434121858
+select * from muyi_category
+1434121858
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1434121858
+select * from muyi_category where cat_id = 1
+1434121858
+select * from muyi_category
+1434121858
+select * from muyi_category
+1434121858
+select * from muyi_category
+1434121858
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1434121858
+use muyi_data
+1434121861
+set names utf8
+1434121861
+select * from muyi_category
+1434121861
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1434121861
+select * from muyi_category where cat_id = 1
+1434121861
+select * from muyi_category
+1434121861
+select * from muyi_category
+1434121861
+select * from muyi_category
+1434121861
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1434121861
+use muyi_data
+1434121862
+set names utf8
+1434121862
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1434121862
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1434121862
+use muyi_data
+1434121863
+set names utf8
+1434121863
+use muyi_data
+1434121943
+set names utf8
+1434121943
+use muyi_data
+1434122013
+set names utf8
+1434122013
+use muyi_data
+1434122024
+set names utf8
+1434122024
+use muyi_data
+1434122028
+set names utf8
+1434122028
+use muyi_data
+1434122029
+set names utf8
+1434122029
+use muyi_data
+1434122030
+set names utf8
+1434122030
+use muyi_data
+1434122030
+set names utf8
+1434122030
+use muyi_data
+1434122072
+set names utf8
+1434122072
+use muyi_data
+1434122074
+set names utf8
+1434122074
+use muyi_data
+1434122074
+set names utf8
+1434122074
+use muyi_data
+1434122075
+set names utf8
+1434122075
+use muyi_data
+1434122075
+set names utf8
+1434122075
+use muyi_data
+1434122097
+set names utf8
+1434122097
+use muyi_data
+1434122103
+set names utf8
+1434122103
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434122103
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434122103
+use muyi_data
+1434122105
+set names utf8
+1434122105
+select * from muyi_goods where goods_id = 23
+1434122105
+use muyi_data
+1434122106
+set names utf8
+1434122106
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434122106
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434122106
+use muyi_data
+1434122110
+set names utf8
+1434122110
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1434122110
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1434122110
+use muyi_data
+1434122111
+set names utf8
+1434122111
+select * from muyi_goods where goods_id = 10
+1434122111
+use muyi_data
+1434122113
+set names utf8
+1434122113
+use muyi_data
+1434122117
+set names utf8
+1434122117
+use muyi_data
+1434122118
+set names utf8
+1434122118
+use muyi_data
+1434122165
+set names utf8
+1434122165
+use muyi_data
+1434122180
+set names utf8
+1434122180
+use muyi_data
+1434122182
+set names utf8
+1434122182
+use muyi_data
+1434122292
+set names utf8
+1434122292
+use muyi_data
+1434122293
+set names utf8
+1434122293
+use muyi_data
+1434122293
+set names utf8
+1434122293
+use muyi_data
+1434122294
+set names utf8
+1434122294
+use muyi_data
+1434122294
+set names utf8
+1434122294
+use muyi_data
+1434122294
+set names utf8
+1434122294
+use muyi_data
+1434122295
+set names utf8
+1434122295
+use muyi_data
+1434122301
+set names utf8
+1434122301
+use muyi_data
+1434122301
+set names utf8
+1434122301
+use muyi_data
+1434122302
+set names utf8
+1434122302
+use muyi_data
+1434122303
+set names utf8
+1434122303
+use muyi_data
+1434122304
+set names utf8
+1434122304
+use muyi_data
+1434122304
+set names utf8
+1434122304
+use muyi_data
+1434122304
+set names utf8
+1434122304
+use muyi_data
+1434122305
+set names utf8
+1434122305
+use muyi_data
+1434122325
+set names utf8
+1434122325
+use muyi_data
+1434122327
+set names utf8
+1434122327
+use muyi_data
+1434122327
+set names utf8
+1434122327
+use muyi_data
+1434122328
+set names utf8
+1434122328
+use muyi_data
+1434122328
+set names utf8
+1434122328
+use muyi_data
+1434122328
+set names utf8
+1434122328
+use muyi_data
+1434122328
+set names utf8
+1434122328
+use muyi_data
+1434122329
+set names utf8
+1434122329
+use muyi_data
+1434122341
+set names utf8
+1434122341
+use muyi_data
+1434122342
+set names utf8
+1434122342
+use muyi_data
+1434122342
+set names utf8
+1434122342
+use muyi_data
+1434122342
+set names utf8
+1434122342
+use muyi_data
+1434122403
+set names utf8
+1434122403
+use muyi_data
+1434122404
+set names utf8
+1434122404
+use muyi_data
+1434122405
+set names utf8
+1434122405
+use muyi_data
+1434122407
+set names utf8
+1434122407
+use muyi_data
+1434122408
+set names utf8
+1434122408
+use muyi_data
+1434122408
+set names utf8
+1434122408
+use muyi_data
+1434122412
+set names utf8
+1434122412
+use muyi_data
+1434122432
+set names utf8
+1434122432
+use muyi_data
+1434122433
+set names utf8
+1434122433
+use muyi_data
+1434122447
+set names utf8
+1434122447
+use muyi_data
+1434122460
+set names utf8
+1434122460
+use muyi_data
+1434122461
+set names utf8
+1434122461
+use muyi_data
+1434122462
+set names utf8
+1434122462
+use muyi_data
+1434122462
+set names utf8
+1434122462
+use muyi_data
+1434122462
+set names utf8
+1434122462
+use muyi_data
+1434122463
+set names utf8
+1434122463
+use muyi_data
+1434122463
+set names utf8
+1434122463
+use muyi_data
+1434122463
+set names utf8
+1434122463
+use muyi_data
+1434122464
+set names utf8
+1434122464
+use muyi_data
+1434122465
+set names utf8
+1434122465
+use muyi_data
+1434122466
+set names utf8
+1434122466
+use muyi_data
+1434122466
+set names utf8
+1434122466
+use muyi_data
+1434122471
+set names utf8
+1434122471
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434122471
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434122471
+use muyi_data
+1434122473
+set names utf8
+1434122473
+select * from muyi_goods where goods_id = 23
+1434122473
+use muyi_data
+1434122474
+set names utf8
+1434122474
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1434122474
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1434122474
+use muyi_data
+1434122477
+set names utf8
+1434122477
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1434122477
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1434122477
+use muyi_data
+1434122478
+set names utf8
+1434122478
+select * from muyi_goods where goods_id = 10
+1434122478
+use muyi_data
+1434122479
+set names utf8
+1434122479
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1434122479
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1434122479
+use muyi_data
+1434122486
+set names utf8
+1434122486
+use muyi_data
+1434122486
+set names utf8
+1434122486
+use muyi_data
+1434122487
+set names utf8
+1434122487
+use muyi_data
+1434122488
+set names utf8
+1434122488
+use muyi_data
+1434122488
+set names utf8
+1434122488
+use muyi_data
+1434122491
+set names utf8
+1434122491
+use muyi_data
+1434122492
+set names utf8
+1434122492
+use muyi_data
+1434122492
+set names utf8
+1434122492
+use muyi_data
+1434122493
+set names utf8
+1434122493
+use muyi_data
+1434122493
+set names utf8
+1434122493
+use muyi_data
+1434122494
+set names utf8
+1434122494
+use muyi_data
+1434122506
+set names utf8
+1434122506
+use muyi_data
+1434122507
+set names utf8
+1434122507
+use muyi_data
+1434122517
+set names utf8
+1434122517
+use muyi_data
+1434122520
+set names utf8
+1434122520
+use muyi_data
+1434122522
+set names utf8
+1434122522
+use muyi_data
+1434122524
+set names utf8
+1434122524
+use muyi_data
+1434122596
+set names utf8
+1434122596
+use muyi_data
+1434122615
+set names utf8
+1434122615
+use muyi_data
+1434122616
+set names utf8
+1434122616
+use muyi_data
+1434122617
+set names utf8
+1434122617
+use muyi_data
+1434122618
+set names utf8
+1434122618
+use muyi_data
+1434122630
+set names utf8
+1434122630
+use muyi_data
+1438310864
+set names utf8
+1438310864
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438310864
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438310864
+use muyi_data
+1438310891
+set names utf8
+1438310891
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438310891
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438310891
+use muyi_data
+1438310895
+set names utf8
+1438310895
+select * from muyi_goods where goods_id = 23
+1438310895
+use muyi_data
+1438310898
+set names utf8
+1438310898
+select * from muyi_goods where goods_id = 23
+1438310898
+use muyi_data
+1438311167
+set names utf8
+1438311167
+use muyi_data
+1438311169
+set names utf8
+1438311169
+use muyi_data
+1438311189
+set names utf8
+1438311189
+use muyi_data
+1438311463
+set names utf8
+1438311463
+select * from muyi_category
+1438311463
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438311463
+select * from muyi_category where cat_id = 1
+1438311463
+select * from muyi_category
+1438311463
+select * from muyi_category
+1438311463
+select * from muyi_category
+1438311463
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438311463
+use muyi_data
+1438311464
+set names utf8
+1438311464
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438311464
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438311465
+use muyi_data
+1438311465
+set names utf8
+1438311465
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438311465
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438311465
+use muyi_data
+1438311482
+set names utf8
+1438311482
+select * from muyi_category
+1438311482
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438311482
+select * from muyi_category where cat_id = 1
+1438311482
+select * from muyi_category
+1438311482
+select * from muyi_category
+1438311482
+select * from muyi_category
+1438311482
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438311482
+use muyi_data
+1438311483
+set names utf8
+1438311483
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438311483
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438311483
+use muyi_data
+1438311483
+set names utf8
+1438311483
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438311483
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438311483
+use muyi_data
+1438324721
+set names utf8
+1438324721
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438324721
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438324721
+use muyi_data
+1438324722
+set names utf8
+1438324722
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438324722
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438324722
+use muyi_data
+1438734848
+set names utf8
+1438734848
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438734848
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438734848
+use muyi_data
+1438734851
+set names utf8
+1438734851
+select * from muyi_goods where goods_id = 23
+1438734851
+use muyi_data
+1438735193
+set names utf8
+1438735193
+select * from muyi_goods where goods_id = 23
+1438735193
+use muyi_data
+1438735274
+set names utf8
+1438735274
+select * from muyi_goods where goods_id = 23
+1438735274
+use muyi_data
+1438735276
+set names utf8
+1438735277
+select * from muyi_goods where goods_id = 23
+1438735277
+use muyi_data
+1438735277
+set names utf8
+1438735277
+select * from muyi_goods where goods_id = 23
+1438735277
+use muyi_data
+1438735278
+set names utf8
+1438735278
+select * from muyi_goods where goods_id = 23
+1438735278
+use muyi_data
+1438735278
+set names utf8
+1438735278
+select * from muyi_goods where goods_id = 23
+1438735278
+use muyi_data
+1438735279
+set names utf8
+1438735279
+select * from muyi_goods where goods_id = 23
+1438735279
+use muyi_data
+1438735280
+set names utf8
+1438735280
+select * from muyi_goods where goods_id = 23
+1438735280
+use muyi_data
+1438735280
+set names utf8
+1438735280
+select * from muyi_goods where goods_id = 23
+1438735280
+use muyi_data
+1438735281
+set names utf8
+1438735281
+select * from muyi_goods where goods_id = 23
+1438735281
+use muyi_data
+1438735282
+set names utf8
+1438735282
+select * from muyi_goods where goods_id = 23
+1438735282
+use muyi_data
+1438735282
+set names utf8
+1438735282
+select * from muyi_goods where goods_id = 23
+1438735282
+use muyi_data
+1438735283
+set names utf8
+1438735283
+select * from muyi_goods where goods_id = 23
+1438735283
+use muyi_data
+1438735284
+set names utf8
+1438735284
+select * from muyi_goods where goods_id = 23
+1438735284
+use muyi_data
+1438735284
+set names utf8
+1438735284
+select * from muyi_goods where goods_id = 23
+1438735284
+use muyi_data
+1438735285
+set names utf8
+1438735285
+select * from muyi_goods where goods_id = 23
+1438735285
+use muyi_data
+1438735286
+set names utf8
+1438735286
+select * from muyi_goods where goods_id = 23
+1438735286
+use muyi_data
+1438735286
+set names utf8
+1438735286
+select * from muyi_goods where goods_id = 23
+1438735286
+use muyi_data
+1438735287
+set names utf8
+1438735287
+select * from muyi_goods where goods_id = 23
+1438735287
+use muyi_data
+1438735288
+set names utf8
+1438735288
+select * from muyi_goods where goods_id = 23
+1438735288
+use muyi_data
+1438735390
+set names utf8
+1438735390
+use muyi_data
+1438735399
+set names utf8
+1438735399
+select * from muyi_goods where goods_id = 23
+1438735399
+use muyi_data
+1438735405
+set names utf8
+1438735405
+select * from muyi_goods where goods_id = 21
+1438735405
+use muyi_data
+1438735409
+set names utf8
+1438735409
+select * from muyi_goods where goods_id = 21
+1438735409
+use muyi_data
+1438735411
+set names utf8
+1438735411
+use muyi_data
+1438735413
+set names utf8
+1438735413
+use muyi_data
+1438735413
+set names utf8
+1438735413
+use muyi_data
+1438735414
+set names utf8
+1438735414
+use muyi_data
+1438735415
+set names utf8
+1438735415
+use muyi_data
+1438735415
+set names utf8
+1438735415
+use muyi_data
+1438735416
+set names utf8
+1438735416
+use muyi_data
+1438735416
+set names utf8
+1438735416
+use muyi_data
+1438735418
+set names utf8
+1438735418
+use muyi_data
+1438735420
+set names utf8
+1438735420
+use muyi_data
+1438735420
+set names utf8
+1438735420
+use muyi_data
+1438735421
+set names utf8
+1438735421
+use muyi_data
+1438735422
+set names utf8
+1438735422
+use muyi_data
+1438735423
+set names utf8
+1438735423
+use muyi_data
+1438735728
+set names utf8
+1438735728
+select * from muyi_category
+1438735728
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735728
+select * from muyi_category where cat_id = 1
+1438735728
+select * from muyi_category
+1438735728
+select * from muyi_category
+1438735728
+select * from muyi_category
+1438735728
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438735728
+use muyi_data
+1438735731
+set names utf8
+1438735731
+select * from muyi_category
+1438735731
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735731
+select * from muyi_category where cat_id = 1
+1438735731
+select * from muyi_category
+1438735731
+select * from muyi_category
+1438735731
+select * from muyi_category
+1438735731
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438735731
+use muyi_data
+1438735732
+set names utf8
+1438735732
+select * from muyi_category
+1438735732
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735732
+select * from muyi_category where cat_id = 1
+1438735732
+select * from muyi_category
+1438735732
+select * from muyi_category
+1438735732
+select * from muyi_category
+1438735732
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438735732
+use muyi_data
+1438735734
+set names utf8
+1438735734
+select * from muyi_category
+1438735734
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735734
+select * from muyi_category where cat_id = 1
+1438735734
+select * from muyi_category
+1438735734
+select * from muyi_category
+1438735734
+select * from muyi_category
+1438735734
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 12,12
+1438735734
+use muyi_data
+1438735737
+set names utf8
+1438735737
+select * from muyi_category
+1438735737
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735737
+select * from muyi_category where cat_id = 1
+1438735737
+select * from muyi_category
+1438735737
+select * from muyi_category
+1438735737
+select * from muyi_category
+1438735737
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438735737
+use muyi_data
+1438735739
+set names utf8
+1438735739
+select * from muyi_category
+1438735739
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735739
+select * from muyi_category where cat_id = 1
+1438735739
+select * from muyi_category
+1438735739
+select * from muyi_category
+1438735739
+select * from muyi_category
+1438735739
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438735739
+use muyi_data
+1438735741
+set names utf8
+1438735741
+select * from muyi_category
+1438735741
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735741
+select * from muyi_category where cat_id = 1
+1438735741
+select * from muyi_category
+1438735741
+select * from muyi_category
+1438735741
+select * from muyi_category
+1438735741
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 12,12
+1438735741
+use muyi_data
+1438735743
+set names utf8
+1438735743
+select * from muyi_category
+1438735743
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438735743
+select * from muyi_category where cat_id = 1
+1438735743
+select * from muyi_category
+1438735743
+select * from muyi_category
+1438735743
+select * from muyi_category
+1438735743
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438735743
+use muyi_data
+1438737237
+set names utf8
+1438737237
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 15
+1438737237
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 15
+1438737237
+use muyi_data
+1438737240
+set names utf8
+1438737240
+select * from muyi_goods where goods_id = 15
+1438737240
+use muyi_data
+1438737261
+set names utf8
+1438737261
+select * from muyi_goods where goods_id = 15
+1438737261
+use muyi_data
+1438737524
+set names utf8
+1438737524
+select * from muyi_goods where goods_id = 15
+1438737524
+use muyi_data
+1438737527
+set names utf8
+1438737527
+select * from muyi_goods where goods_id = 15
+1438737527
+use muyi_data
+1438737531
+set names utf8
+1438737531
+select * from muyi_goods where goods_id = 15
+1438737531
+use muyi_data
+1438737547
+set names utf8
+1438737547
+select * from muyi_goods where goods_id = 15
+1438737547
+use muyi_data
+1438737552
+set names utf8
+1438737552
+select * from muyi_goods where goods_id = 15
+1438737552
+use muyi_data
+1438737552
+set names utf8
+1438737552
+select * from muyi_goods where goods_id = 15
+1438737552
+use muyi_data
+1438737553
+set names utf8
+1438737553
+select * from muyi_goods where goods_id = 15
+1438737553
+use muyi_data
+1438737554
+set names utf8
+1438737554
+select * from muyi_goods where goods_id = 15
+1438737554
+use muyi_data
+1438737720
+set names utf8
+1438737720
+select * from muyi_goods where goods_id = 15
+1438737720
+use muyi_data
+1438737722
+set names utf8
+1438737722
+select * from muyi_goods where goods_id = 15
+1438737722
+use muyi_data
+1438737723
+set names utf8
+1438737723
+select * from muyi_goods where goods_id = 15
+1438737723
+use muyi_data
+1438737733
+set names utf8
+1438737733
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438737733
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438737733
+use muyi_data
+1438737737
+set names utf8
+1438737737
+select * from muyi_goods where goods_id = 23
+1438737737
+use muyi_data
+1438738144
+set names utf8
+1438738144
+select * from muyi_goods where goods_id = 23
+1438738144
+use muyi_data
+1438738308
+set names utf8
+1438738308
+select * from muyi_goods where goods_id = 23
+1438738308
+use muyi_data
+1438738309
+set names utf8
+1438738309
+select * from muyi_goods where goods_id = 23
+1438738309
+use muyi_data
+1438738310
+set names utf8
+1438738310
+select * from muyi_goods where goods_id = 23
+1438738310
+use muyi_data
+1438738311
+set names utf8
+1438738311
+select * from muyi_goods where goods_id = 23
+1438738311
+use muyi_data
+1438738312
+set names utf8
+1438738312
+select * from muyi_goods where goods_id = 23
+1438738312
+use muyi_data
+1438738313
+set names utf8
+1438738313
+select * from muyi_goods where goods_id = 23
+1438738313
+use muyi_data
+1438738314
+set names utf8
+1438738314
+select * from muyi_goods where goods_id = 23
+1438738314
+use muyi_data
+1438738317
+set names utf8
+1438738317
+select * from muyi_goods where goods_id = 23
+1438738317
+use muyi_data
+1438738324
+set names utf8
+1438738324
+select * from muyi_goods where goods_id = 23
+1438738324
+use muyi_data
+1438738327
+set names utf8
+1438738327
+select * from muyi_goods where goods_id = 23
+1438738327
+use muyi_data
+1438738338
+set names utf8
+1438738338
+select * from muyi_goods where goods_id = 23
+1438738338
+use muyi_data
+1438738375
+set names utf8
+1438738375
+select * from muyi_goods where goods_id = 23
+1438738375
+use muyi_data
+1438738380
+set names utf8
+1438738380
+select * from muyi_goods where goods_id = 23
+1438738380
+use muyi_data
+1438738497
+set names utf8
+1438738497
+select * from muyi_goods where goods_id = 23
+1438738497
+use muyi_data
+1438738523
+set names utf8
+1438738523
+select * from muyi_goods where goods_id = 23
+1438738523
+use muyi_data
+1438738544
+set names utf8
+1438738544
+select * from muyi_goods where goods_id = 23
+1438738544
+use muyi_data
+1438738636
+set names utf8
+1438738636
+select * from muyi_goods where goods_id = 23
+1438738636
+use muyi_data
+1438738824
+set names utf8
+1438738824
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438738824
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438738824
+use muyi_data
+1438738846
+set names utf8
+1438738846
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438738846
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438738846
+use muyi_data
+1438738852
+set names utf8
+1438738852
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438738852
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438738852
+use muyi_data
+1438738870
+set names utf8
+1438738870
+select * from muyi_goods where goods_id = 23
+1438738870
+use muyi_data
+1438738871
+set names utf8
+1438738871
+select * from muyi_goods where goods_id = 23
+1438738871
+use muyi_data
+1438738875
+set names utf8
+1438738875
+select * from muyi_goods where goods_id = 23
+1438738875
+use muyi_data
+1438738905
+set names utf8
+1438738905
+select * from muyi_goods where goods_id = 23
+1438738905
+use muyi_data
+1438738911
+set names utf8
+1438738911
+select * from muyi_goods where goods_id = 23
+1438738911
+use muyi_data
+1438738945
+set names utf8
+1438738945
+select * from muyi_goods where goods_id = 23
+1438738945
+use muyi_data
+1438739094
+set names utf8
+1438739094
+select * from muyi_goods where goods_id = 23
+1438739094
+use muyi_data
+1438739106
+set names utf8
+1438739106
+select * from muyi_goods where goods_id = 23
+1438739106
+use muyi_data
+1438739110
+set names utf8
+1438739110
+select * from muyi_goods where goods_id = 23
+1438739110
+use muyi_data
+1438739128
+set names utf8
+1438739128
+select * from muyi_goods where goods_id = 23
+1438739128
+use muyi_data
+1438739156
+set names utf8
+1438739156
+select * from muyi_goods where goods_id = 23
+1438739156
+use muyi_data
+1438739175
+set names utf8
+1438739175
+select * from muyi_goods where goods_id = 23
+1438739175
+use muyi_data
+1438739179
+set names utf8
+1438739179
+select * from muyi_goods where goods_id = 23
+1438739179
+use muyi_data
+1438739180
+set names utf8
+1438739180
+select * from muyi_goods where goods_id = 23
+1438739180
+use muyi_data
+1438739181
+set names utf8
+1438739181
+select * from muyi_goods where goods_id = 23
+1438739181
+use muyi_data
+1438739208
+set names utf8
+1438739208
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438739208
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438739208
+use muyi_data
+1438739211
+set names utf8
+1438739211
+select * from muyi_goods where goods_id = 23
+1438739211
+use muyi_data
+1438739267
+set names utf8
+1438739267
+select * from muyi_goods where goods_id = 23
+1438739267
+use muyi_data
+1438739268
+set names utf8
+1438739268
+select * from muyi_goods where goods_id = 23
+1438739268
+use muyi_data
+1438739269
+set names utf8
+1438739269
+select * from muyi_goods where goods_id = 23
+1438739269
+use muyi_data
+1438739270
+set names utf8
+1438739270
+select * from muyi_goods where goods_id = 23
+1438739270
+use muyi_data
+1438739271
+set names utf8
+1438739271
+select * from muyi_goods where goods_id = 23
+1438739271
+use muyi_data
+1438739271
+set names utf8
+1438739271
+select * from muyi_goods where goods_id = 23
+1438739271
+use muyi_data
+1438739277
+set names utf8
+1438739277
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438739277
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438739277
+use muyi_data
+1438739279
+set names utf8
+1438739279
+select * from muyi_goods where goods_id = 23
+1438739279
+use muyi_data
+1438739281
+set names utf8
+1438739281
+select * from muyi_goods where goods_id = 23
+1438739281
+use muyi_data
+1438739683
+set names utf8
+1438739683
+select * from muyi_goods where goods_id = 23
+1438739683
+use muyi_data
+1438739696
+set names utf8
+1438739696
+select * from muyi_goods where goods_id = 23
+1438739696
+use muyi_data
+1438739721
+set names utf8
+1438739721
+select * from muyi_goods where goods_id = 23
+1438739721
+use muyi_data
+1438739748
+set names utf8
+1438739748
+select * from muyi_goods where goods_id = 23
+1438739748
+use muyi_data
+1438739771
+set names utf8
+1438739771
+select * from muyi_goods where goods_id = 23
+1438739771
+use muyi_data
+1438739791
+set names utf8
+1438739791
+select * from muyi_goods where goods_id = 23
+1438739791
+use muyi_data
+1438739838
+set names utf8
+1438739838
+select * from muyi_goods where goods_id = 23
+1438739839
+use muyi_data
+1438739852
+set names utf8
+1438739852
+select * from muyi_goods where goods_id = 23
+1438739853
+use muyi_data
+1438739863
+set names utf8
+1438739863
+select * from muyi_goods where goods_id = 23
+1438739863
+use muyi_data
+1438739866
+set names utf8
+1438739866
+select * from muyi_goods where goods_id = 23
+1438739866
+use muyi_data
+1438739867
+set names utf8
+1438739867
+select * from muyi_goods where goods_id = 23
+1438739867
+use muyi_data
+1438739891
+set names utf8
+1438739891
+select * from muyi_goods where goods_id = 23
+1438739891
+use muyi_data
+1438739896
+set names utf8
+1438739896
+select * from muyi_goods where goods_id = 23
+1438739896
+use muyi_data
+1438739928
+set names utf8
+1438739928
+select * from muyi_goods where goods_id = 23
+1438739928
+use muyi_data
+1438739929
+set names utf8
+1438739929
+select * from muyi_goods where goods_id = 23
+1438739929
+use muyi_data
+1438739933
+set names utf8
+1438739933
+select * from muyi_goods where goods_id = 23
+1438739933
+use muyi_data
+1438740064
+set names utf8
+1438740064
+select * from muyi_goods where goods_id = 23
+1438740064
+use muyi_data
+1438740077
+set names utf8
+1438740077
+select * from muyi_goods where goods_id = 23
+1438740077
+use muyi_data
+1438740092
+set names utf8
+1438740092
+select * from muyi_goods where goods_id = 23
+1438740092
+use muyi_data
+1438740113
+set names utf8
+1438740113
+select * from muyi_goods where goods_id = 23
+1438740113
+use muyi_data
+1438740150
+set names utf8
+1438740150
+select * from muyi_goods where goods_id = 23
+1438740150
+use muyi_data
+1438740217
+set names utf8
+1438740217
+select * from muyi_goods where goods_id = 23
+1438740217
+use muyi_data
+1438740234
+set names utf8
+1438740234
+select * from muyi_goods where goods_id = 23
+1438740234
+use muyi_data
+1438740248
+set names utf8
+1438740248
+select * from muyi_goods where goods_id = 23
+1438740248
+use muyi_data
+1438740256
+set names utf8
+1438740256
+select * from muyi_goods where goods_id = 23
+1438740256
+use muyi_data
+1438740287
+set names utf8
+1438740287
+select * from muyi_goods where goods_id = 23
+1438740287
+use muyi_data
+1438740305
+set names utf8
+1438740305
+use muyi_data
+1438740308
+set names utf8
+1438740308
+select * from muyi_goods where goods_id = 23
+1438740308
+use muyi_data
+1438740311
+set names utf8
+1438740311
+select * from muyi_goods where goods_id = 23
+1438740311
+use muyi_data
+1438740312
+set names utf8
+1438740312
+select * from muyi_goods where goods_id = 23
+1438740312
+use muyi_data
+1438740312
+set names utf8
+1438740312
+select * from muyi_goods where goods_id = 23
+1438740312
+use muyi_data
+1438740313
+set names utf8
+1438740313
+select * from muyi_goods where goods_id = 23
+1438740313
+use muyi_data
+1438740313
+set names utf8
+1438740313
+select * from muyi_goods where goods_id = 23
+1438740313
+use muyi_data
+1438740314
+set names utf8
+1438740314
+select * from muyi_goods where goods_id = 23
+1438740314
+use muyi_data
+1438740315
+set names utf8
+1438740315
+select * from muyi_goods where goods_id = 23
+1438740315
+use muyi_data
+1438740324
+set names utf8
+1438740324
+use muyi_data
+1438740326
+set names utf8
+1438740326
+use muyi_data
+1438740338
+set names utf8
+1438740338
+use muyi_data
+1438740357
+set names utf8
+1438740357
+use muyi_data
+1438740358
+set names utf8
+1438740358
+use muyi_data
+1438740360
+set names utf8
+1438740360
+use muyi_data
+1438740377
+set names utf8
+1438740377
+use muyi_data
+1438740389
+set names utf8
+1438740389
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438740389
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438740389
+use muyi_data
+1438740391
+set names utf8
+1438740391
+select * from muyi_goods where goods_id = 23
+1438740391
+use muyi_data
+1438740399
+set names utf8
+1438740399
+select * from muyi_goods where goods_id = 23
+1438740399
+use muyi_data
+1438740400
+set names utf8
+1438740400
+select * from muyi_goods where goods_id = 23
+1438740400
+use muyi_data
+1438740435
+set names utf8
+1438740435
+select * from muyi_goods where goods_id = 23
+1438740435
+use muyi_data
+1438740438
+set names utf8
+1438740438
+use muyi_data
+1438740439
+set names utf8
+1438740439
+use muyi_data
+1438740440
+set names utf8
+1438740440
+use muyi_data
+1438740510
+set names utf8
+1438740510
+use muyi_data
+1438740534
+set names utf8
+1438740534
+use muyi_data
+1438740546
+set names utf8
+1438740546
+use muyi_data
+1438740550
+set names utf8
+1438740550
+use muyi_data
+1438740551
+set names utf8
+1438740551
+use muyi_data
+1438740577
+set names utf8
+1438740577
+use muyi_data
+1438740578
+set names utf8
+1438740578
+use muyi_data
+1438740579
+set names utf8
+1438740579
+use muyi_data
+1438740682
+set names utf8
+1438740682
+use muyi_data
+1438740684
+set names utf8
+1438740684
+use muyi_data
+1438740771
+set names utf8
+1438740771
+use muyi_data
+1438740804
+set names utf8
+1438740804
+use muyi_data
+1438740806
+set names utf8
+1438740806
+use muyi_data
+1438740807
+set names utf8
+1438740807
+use muyi_data
+1438740814
+set names utf8
+1438740814
+select user_id,username,email,passwd from muyi_user where 
+			username= 'admin' and passwd='d477887b0636e5d87f79cc25c99d7dc9'
+1438740816
+use muyi_data
+1438740820
+set names utf8
+1438740820
+use muyi_data
+1438740834
+set names utf8
+1438740834
+select * from muyi_category
+1438740834
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438740834
+select * from muyi_category where cat_id = 1
+1438740834
+select * from muyi_category
+1438740834
+select * from muyi_category
+1438740834
+select * from muyi_category
+1438740834
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438740834
+use muyi_data
+1438740835
+set names utf8
+1438740835
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438740835
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438740835
+use muyi_data
+1438740856
+set names utf8
+1438740856
+select * from muyi_category
+1438740856
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438740856
+select * from muyi_category where cat_id = 1
+1438740856
+select * from muyi_category
+1438740856
+select * from muyi_category
+1438740856
+select * from muyi_category
+1438740856
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438740856
+use muyi_data
+1438741025
+set names utf8
+1438741025
+select * from muyi_category
+1438741025
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438741025
+select * from muyi_category where cat_id = 1
+1438741025
+select * from muyi_category
+1438741025
+select * from muyi_category
+1438741025
+select * from muyi_category
+1438741025
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438741025
+use muyi_data
+1438741027
+set names utf8
+1438741027
+select * from muyi_category
+1438741027
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438741027
+select * from muyi_category where cat_id = 1
+1438741027
+select * from muyi_category
+1438741027
+select * from muyi_category
+1438741027
+select * from muyi_category
+1438741027
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438741027
+use muyi_data
+1438741028
+set names utf8
+1438741028
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438741028
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438741028
+use muyi_data
+1438741030
+set names utf8
+1438741030
+select * from muyi_goods where goods_id = 16
+1438741030
+use muyi_data
+1438741057
+set names utf8
+1438741057
+select * from muyi_goods where goods_id = 16
+1438741057
+use muyi_data
+1438741502
+set names utf8
+1438741502
+select * from muyi_goods where goods_id = 16
+1438741502
+use muyi_data
+1438741557
+set names utf8
+1438741557
+select * from muyi_goods where goods_id = 16
+1438741557
+use muyi_data
+1438741587
+set names utf8
+1438741587
+select * from muyi_goods where goods_id = 16
+1438741587
+use muyi_data
+1438741591
+set names utf8
+1438741591
+select * from muyi_goods where goods_id = 16
+1438741591
+use muyi_data
+1438741594
+set names utf8
+1438741594
+select * from muyi_goods where goods_id = 16
+1438741594
+use muyi_data
+1438741596
+set names utf8
+1438741596
+select * from muyi_goods where goods_id = 16
+1438741596
+use muyi_data
+1438743363
+set names utf8
+1438743363
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438743364
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438743364
+use muyi_data
+1438743382
+set names utf8
+1438743382
+select * from muyi_goods where goods_id = 23
+1438743382
+use muyi_data
+1438743426
+set names utf8
+1438743426
+select * from muyi_goods where goods_id = 23
+1438743426
+use muyi_data
+1438743576
+set names utf8
+1438743576
+select * from muyi_goods where goods_id = 23
+1438743576
+use muyi_data
+1438743582
+set names utf8
+1438743582
+select * from muyi_goods where goods_id = 23
+1438743582
+use muyi_data
+1438743629
+set names utf8
+1438743629
+select * from muyi_goods where goods_id = 23
+1438743629
+use muyi_data
+1438743630
+set names utf8
+1438743630
+select * from muyi_goods where goods_id = 23
+1438743630
+use muyi_data
+1438743762
+set names utf8
+1438743762
+select * from muyi_goods where goods_id = 23
+1438743762
+use muyi_data
+1438743782
+set names utf8
+1438743782
+select * from muyi_goods where goods_id = 23
+1438743782
+use muyi_data
+1438743798
+set names utf8
+1438743798
+select * from muyi_goods where goods_id = 23
+1438743798
+use muyi_data
+1438743820
+set names utf8
+1438743820
+select * from muyi_goods where goods_id = 23
+1438743820
+use muyi_data
+1438743824
+set names utf8
+1438743824
+select * from muyi_goods where goods_id = 23
+1438743824
+use muyi_data
+1438743828
+set names utf8
+1438743828
+select * from muyi_goods where goods_id = 23
+1438743828
+use muyi_data
+1438743833
+set names utf8
+1438743833
+select * from muyi_goods where goods_id = 23
+1438743833
+use muyi_data
+1438743836
+set names utf8
+1438743836
+select * from muyi_goods where goods_id = 23
+1438743836
+use muyi_data
+1438743845
+set names utf8
+1438743845
+select * from muyi_goods where goods_id = 23
+1438743845
+use muyi_data
+1438743859
+set names utf8
+1438743859
+select * from muyi_goods where goods_id = 23
+1438743859
+use muyi_data
+1438744162
+set names utf8
+1438744162
+select * from muyi_goods where goods_id = 23
+1438744162
+use muyi_data
+1438744209
+set names utf8
+1438744209
+select * from muyi_goods where goods_id = 23
+1438744209
+use muyi_data
+1438744257
+set names utf8
+1438744257
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438744257
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438744257
+use muyi_data
+1438744260
+set names utf8
+1438744260
+select * from muyi_goods where goods_id = 23
+1438744260
+use muyi_data
+1438744304
+set names utf8
+1438744304
+select * from muyi_goods where goods_id = 23
+1438744304
+use muyi_data
+1438744310
+set names utf8
+1438744310
+select * from muyi_goods where goods_id = 23
+1438744310
+use muyi_data
+1438744430
+set names utf8
+1438744430
+select * from muyi_goods where goods_id = 23
+1438744430
+use muyi_data
+1438744524
+set names utf8
+1438744524
+select * from muyi_goods where goods_id = 23
+1438744524
+use muyi_data
+1438744533
+set names utf8
+1438744533
+select * from muyi_goods where goods_id = 23
+1438744533
+use muyi_data
+1438744585
+set names utf8
+1438744585
+select * from muyi_goods where goods_id = 23
+1438744585
+use muyi_data
+1438744607
+set names utf8
+1438744607
+select * from muyi_goods where goods_id = 23
+1438744607
+use muyi_data
+1438744835
+set names utf8
+1438744835
+select * from muyi_goods where goods_id = 23
+1438744835
+use muyi_data
+1438744839
+set names utf8
+1438744839
+select * from muyi_goods where goods_id = 23
+1438744839
+use muyi_data
+1438744845
+set names utf8
+1438744845
+select * from muyi_goods where goods_id = 23
+1438744845
+use muyi_data
+1438744912
+set names utf8
+1438744912
+select * from muyi_goods where goods_id = 23
+1438744912
+use muyi_data
+1438744936
+set names utf8
+1438744936
+select * from muyi_goods where goods_id = 23
+1438744936
+use muyi_data
+1438744942
+set names utf8
+1438744942
+select * from muyi_goods where goods_id = 23
+1438744942
+use muyi_data
+1438745116
+set names utf8
+1438745116
+select * from muyi_goods where goods_id = 23
+1438745116
+use muyi_data
+1438745120
+set names utf8
+1438745120
+select * from muyi_goods where goods_id = 23
+1438745120
+use muyi_data
+1438745128
+set names utf8
+1438745128
+select * from muyi_goods where goods_id = 23
+1438745128
+use muyi_data
+1438745383
+set names utf8
+1438745383
+select * from muyi_goods where goods_id = 23
+1438745383
+use muyi_data
+1438745462
+set names utf8
+1438745462
+select * from muyi_goods where goods_id = 23
+1438745462
+use muyi_data
+1438746188
+set names utf8
+1438746188
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746188
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746188
+use muyi_data
+1438746188
+set names utf8
+1438746188
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746188
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746188
+use muyi_data
+1438746191
+set names utf8
+1438746191
+select * from muyi_goods where goods_id = 23
+1438746191
+use muyi_data
+1438746191
+set names utf8
+1438746191
+select * from muyi_goods where goods_id = 23
+1438746191
+use muyi_data
+1438746200
+set names utf8
+1438746200
+select * from muyi_goods where goods_id = 23
+1438746200
+use muyi_data
+1438746255
+set names utf8
+1438746255
+select * from muyi_goods where goods_id = 23
+1438746255
+use muyi_data
+1438746320
+set names utf8
+1438746320
+select * from muyi_goods where goods_id = 23
+1438746320
+use muyi_data
+1438746342
+set names utf8
+1438746342
+select * from muyi_goods where goods_id = 23
+1438746342
+use muyi_data
+1438746344
+set names utf8
+1438746344
+select * from muyi_goods where goods_id = 23
+1438746344
+use muyi_data
+1438746362
+set names utf8
+1438746362
+select * from muyi_goods where goods_id = 23
+1438746362
+use muyi_data
+1438746368
+set names utf8
+1438746368
+select * from muyi_goods where goods_id = 23
+1438746368
+use muyi_data
+1438746385
+set names utf8
+1438746385
+select * from muyi_goods where goods_id = 23
+1438746385
+use muyi_data
+1438746394
+set names utf8
+1438746394
+select * from muyi_goods where goods_id = 23
+1438746394
+use muyi_data
+1438746462
+set names utf8
+1438746462
+select * from muyi_goods where goods_id = 23
+1438746462
+use muyi_data
+1438746481
+set names utf8
+1438746481
+select * from muyi_goods where goods_id = 23
+1438746481
+use muyi_data
+1438746485
+set names utf8
+1438746485
+select * from muyi_goods where goods_id = 23
+1438746485
+use muyi_data
+1438746491
+set names utf8
+1438746491
+select * from muyi_goods where goods_id = 23
+1438746491
+use muyi_data
+1438746502
+set names utf8
+1438746502
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746502
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746502
+use muyi_data
+1438746504
+set names utf8
+1438746504
+select * from muyi_goods where goods_id = 23
+1438746504
+use muyi_data
+1438746504
+set names utf8
+1438746504
+select * from muyi_goods where goods_id = 23
+1438746504
+use muyi_data
+1438746508
+set names utf8
+1438746508
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746508
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746508
+use muyi_data
+1438746512
+set names utf8
+1438746512
+select * from muyi_goods where goods_id = 23
+1438746512
+use muyi_data
+1438746512
+set names utf8
+1438746512
+select * from muyi_goods where goods_id = 23
+1438746512
+use muyi_data
+1438746516
+set names utf8
+1438746516
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746516
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746516
+use muyi_data
+1438746520
+set names utf8
+1438746520
+select * from muyi_category
+1438746520
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438746520
+select * from muyi_category where cat_id = 1
+1438746520
+select * from muyi_category
+1438746520
+select * from muyi_category
+1438746520
+select * from muyi_category
+1438746520
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438746520
+use muyi_data
+1438746522
+set names utf8
+1438746522
+use muyi_data
+1438746528
+set names utf8
+1438746528
+use muyi_data
+1438746598
+set names utf8
+1438746598
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746598
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746598
+use muyi_data
+1438746600
+set names utf8
+1438746600
+select * from muyi_goods where goods_id = 23
+1438746600
+use muyi_data
+1438746600
+set names utf8
+1438746600
+select * from muyi_goods where goods_id = 23
+1438746600
+use muyi_data
+1438746603
+set names utf8
+1438746603
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438746603
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438746603
+use muyi_data
+1438746606
+set names utf8
+1438746606
+select * from muyi_category
+1438746606
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438746606
+select * from muyi_category where cat_id = 1
+1438746606
+select * from muyi_category
+1438746606
+select * from muyi_category
+1438746606
+select * from muyi_category
+1438746606
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438746606
+use muyi_data
+1438746608
+set names utf8
+1438746608
+use muyi_data
+1438746615
+set names utf8
+1438746615
+select * from muyi_category
+1438746615
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438746615
+select * from muyi_category where cat_id = 1
+1438746615
+select * from muyi_category
+1438746615
+select * from muyi_category
+1438746615
+select * from muyi_category
+1438746615
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438746615
+use muyi_data
+1438746622
+set names utf8
+1438746622
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438746622
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438746622
+use muyi_data
+1438746622
+set names utf8
+1438746622
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438746622
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438746622
+use muyi_data
+1438746624
+set names utf8
+1438746624
+select * from muyi_goods where goods_id = 10
+1438746624
+use muyi_data
+1438746624
+set names utf8
+1438746624
+select * from muyi_goods where goods_id = 10
+1438746624
+use muyi_data
+1438746728
+set names utf8
+1438746728
+select * from muyi_goods where goods_id = 10
+1438746728
+use muyi_data
+1438746770
+set names utf8
+1438746770
+select * from muyi_goods where goods_id = 10
+1438746770
+use muyi_data
+1438746817
+set names utf8
+1438746817
+select * from muyi_goods where goods_id = 10
+1438746817
+use muyi_data
+1438746840
+set names utf8
+1438746840
+select * from muyi_category
+1438746840
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438746840
+select * from muyi_category where cat_id = 1
+1438746840
+select * from muyi_category
+1438746840
+select * from muyi_category
+1438746840
+select * from muyi_category
+1438746840
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438746840
+use muyi_data
+1438746843
+set names utf8
+1438746843
+use muyi_data
+1438746885
+set names utf8
+1438746885
+use muyi_data
+1438746896
+set names utf8
+1438746896
+use muyi_data
+1438746900
+set names utf8
+1438746900
+use muyi_data
+1438746903
+set names utf8
+1438746903
+use muyi_data
+1438746905
+set names utf8
+1438746905
+use muyi_data
+1438746914
+set names utf8
+1438746914
+use muyi_data
+1438746918
+set names utf8
+1438746918
+use muyi_data
+1438746935
+set names utf8
+1438746935
+use muyi_data
+1438746961
+set names utf8
+1438746961
+use muyi_data
+1438746975
+set names utf8
+1438746975
+use muyi_data
+1438746976
+set names utf8
+1438746976
+use muyi_data
+1438746990
+set names utf8
+1438746990
+use muyi_data
+1438747051
+set names utf8
+1438747051
+use muyi_data
+1438747054
+set names utf8
+1438747054
+use muyi_data
+1438747071
+set names utf8
+1438747071
+use muyi_data
+1438747073
+set names utf8
+1438747073
+use muyi_data
+1438747077
+set names utf8
+1438747077
+use muyi_data
+1438747094
+set names utf8
+1438747094
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438747094
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438747094
+use muyi_data
+1438747096
+set names utf8
+1438747096
+select * from muyi_goods where goods_id = 10
+1438747096
+use muyi_data
+1438747096
+set names utf8
+1438747096
+select * from muyi_goods where goods_id = 10
+1438747096
+use muyi_data
+1438747122
+set names utf8
+1438747122
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438747123
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438747123
+use muyi_data
+1438747127
+set names utf8
+1438747127
+select * from muyi_goods where goods_id = 10
+1438747127
+use muyi_data
+1438747127
+set names utf8
+1438747127
+select * from muyi_goods where goods_id = 10
+1438747127
+use muyi_data
+1438747129
+set names utf8
+1438747129
+use muyi_data
+1438747132
+set names utf8
+1438747132
+select * from muyi_goods where goods_id = 10
+1438747132
+use muyi_data
+1438747172
+set names utf8
+1438747172
+select * from muyi_goods where goods_id = 10
+1438747172
+use muyi_data
+1438747191
+set names utf8
+1438747191
+select * from muyi_goods where goods_id = 10
+1438747191
+use muyi_data
+1438747220
+set names utf8
+1438747220
+select * from muyi_goods where goods_id = 10
+1438747220
+use muyi_data
+1438747222
+set names utf8
+1438747222
+use muyi_data
+1438747222
+set names utf8
+1438747222
+use muyi_data
+1438747224
+set names utf8
+1438747224
+select * from muyi_goods where goods_id = 10
+1438747224
+use muyi_data
+1438747227
+set names utf8
+1438747227
+use muyi_data
+1438747227
+set names utf8
+1438747227
+use muyi_data
+1438747230
+set names utf8
+1438747230
+select * from muyi_goods where goods_id = 10
+1438747230
+use muyi_data
+1438747238
+set names utf8
+1438747238
+use muyi_data
+1438747239
+set names utf8
+1438747239
+use muyi_data
+1438747241
+set names utf8
+1438747241
+use muyi_data
+1438747242
+set names utf8
+1438747242
+use muyi_data
+1438747243
+set names utf8
+1438747243
+use muyi_data
+1438747245
+set names utf8
+1438747245
+use muyi_data
+1438747246
+set names utf8
+1438747246
+use muyi_data
+1438747256
+set names utf8
+1438747256
+use muyi_data
+1438747259
+set names utf8
+1438747259
+use muyi_data
+1438747260
+set names utf8
+1438747260
+use muyi_data
+1438747262
+set names utf8
+1438747262
+use muyi_data
+1438747270
+set names utf8
+1438747270
+use muyi_data
+1438747277
+set names utf8
+1438747277
+select * from muyi_goods where goods_id = 10
+1438747277
+use muyi_data
+1438747280
+set names utf8
+1438747280
+use muyi_data
+1438747280
+set names utf8
+1438747280
+use muyi_data
+1438747282
+set names utf8
+1438747282
+select * from muyi_goods where goods_id = 10
+1438747282
+use muyi_data
+1438747298
+set names utf8
+1438747298
+select * from muyi_goods where goods_id = 10
+1438747298
+use muyi_data
+1438747301
+set names utf8
+1438747301
+select * from muyi_goods where goods_id = 10
+1438747301
+use muyi_data
+1438747356
+set names utf8
+1438747356
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438747356
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438747356
+use muyi_data
+1438747356
+set names utf8
+1438747356
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438747356
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438747356
+use muyi_data
+1438747358
+set names utf8
+1438747358
+select * from muyi_goods where goods_id = 23
+1438747358
+use muyi_data
+1438747358
+set names utf8
+1438747358
+select * from muyi_goods where goods_id = 23
+1438747358
+use muyi_data
+1438747368
+set names utf8
+1438747368
+select * from muyi_category
+1438747368
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438747368
+select * from muyi_category where cat_id = 1
+1438747368
+select * from muyi_category
+1438747368
+select * from muyi_category
+1438747368
+select * from muyi_category
+1438747368
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438747368
+use muyi_data
+1438747369
+set names utf8
+1438747369
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438747369
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438747369
+use muyi_data
+1438747369
+set names utf8
+1438747369
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438747369
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438747369
+use muyi_data
+1438747371
+set names utf8
+1438747371
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438747371
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438747371
+use muyi_data
+1438747373
+set names utf8
+1438747373
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438747373
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438747373
+use muyi_data
+1438747394
+set names utf8
+1438747394
+select * from muyi_category
+1438747394
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438747394
+select * from muyi_category where cat_id = 1
+1438747394
+select * from muyi_category
+1438747394
+select * from muyi_category
+1438747394
+select * from muyi_category
+1438747394
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438747394
+use muyi_data
+1438747402
+set names utf8
+1438747402
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438747402
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438747402
+use muyi_data
+1438747404
+set names utf8
+1438747404
+select * from muyi_goods where goods_id = 10
+1438747404
+use muyi_data
+1438747491
+set names utf8
+1438747491
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438747491
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438747492
+use muyi_data
+1438747492
+set names utf8
+1438747492
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438747492
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438747492
+use muyi_data
+1438747499
+set names utf8
+1438747499
+select * from muyi_goods where goods_id = 23
+1438747499
+use muyi_data
+1438747618
+set names utf8
+1438747618
+select * from muyi_goods where goods_id = 23
+1438747618
+use muyi_data
+1438747631
+set names utf8
+1438747631
+select * from muyi_goods where goods_id = 23
+1438747631
+use muyi_data
+1438747648
+set names utf8
+1438747648
+use muyi_data
+1438747653
+set names utf8
+1438747653
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438747653
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438747653
+use muyi_data
+1438747653
+set names utf8
+1438747653
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438747653
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438747653
+use muyi_data
+1438747661
+set names utf8
+1438747661
+select * from muyi_goods where goods_id = 23
+1438747661
+use muyi_data
+1438747661
+set names utf8
+1438747661
+select * from muyi_goods where goods_id = 23
+1438747661
+use muyi_data
+1438747665
+set names utf8
+1438747665
+select * from muyi_goods where goods_id = 23
+1438747665
+use muyi_data
+1438747818
+set names utf8
+1438747818
+select * from muyi_goods where goods_id = 23
+1438747818
+use muyi_data
+1438747858
+set names utf8
+1438747858
+select * from muyi_goods where goods_id = 23
+1438747858
+use muyi_data
+1438747892
+set names utf8
+1438747892
+select * from muyi_goods where goods_id = 23
+1438747892
+use muyi_data
+1438747901
+set names utf8
+1438747901
+select * from muyi_goods where goods_id = 23
+1438747901
+use muyi_data
+1438747937
+set names utf8
+1438747937
+select * from muyi_goods where goods_id = 23
+1438747937
+use muyi_data
+1438747960
+set names utf8
+1438747960
+use muyi_data
+1438747965
+set names utf8
+1438747965
+select * from muyi_goods where goods_id = 23
+1438747965
+use muyi_data
+1438748004
+set names utf8
+1438748004
+select * from muyi_goods where goods_id = 23
+1438748004
+use muyi_data
+1438748032
+set names utf8
+1438748032
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 12
+1438748032
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 12
+1438748032
+use muyi_data
+1438748032
+set names utf8
+1438748032
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 12
+1438748032
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 12
+1438748032
+use muyi_data
+1438748034
+set names utf8
+1438748034
+select * from muyi_goods where goods_id = 12
+1438748034
+use muyi_data
+1438748034
+set names utf8
+1438748034
+select * from muyi_goods where goods_id = 12
+1438748034
+use muyi_data
+1438748087
+set names utf8
+1438748087
+select * from muyi_goods where goods_id = 23
+1438748087
+use muyi_data
+1438748094
+set names utf8
+1438748094
+select * from muyi_goods where goods_id = 23
+1438748094
+use muyi_data
+1438748962
+set names utf8
+1438748962
+select * from muyi_goods where goods_id = 16
+1438748962
+use muyi_data
+1438748968
+set names utf8
+1438748968
+select * from muyi_goods where goods_id = 16
+1438748968
+use muyi_data
+1438748971
+set names utf8
+1438748971
+select * from muyi_goods where goods_id = 16
+1438748971
+use muyi_data
+1438749065
+set names utf8
+1438749065
+select * from muyi_goods where goods_id = 16
+1438749065
+use muyi_data
+1438749067
+set names utf8
+1438749067
+select * from muyi_goods where goods_id = 16
+1438749067
+use muyi_data
+1438749073
+set names utf8
+1438749073
+select * from muyi_goods where goods_id = 16
+1438749073
+use muyi_data
+1438749086
+set names utf8
+1438749086
+select * from muyi_goods where goods_id = 16
+1438749086
+use muyi_data
+1438749111
+set names utf8
+1438749111
+select * from muyi_goods where goods_id = 16
+1438749111
+use muyi_data
+1438749111
+set names utf8
+1438749111
+select * from muyi_goods where goods_id = 16
+1438749111
+use muyi_data
+1438749144
+set names utf8
+1438749144
+select * from muyi_goods where goods_id = 16
+1438749144
+use muyi_data
+1438749161
+set names utf8
+1438749161
+select * from muyi_goods where goods_id = 16
+1438749161
+use muyi_data
+1438749182
+set names utf8
+1438749182
+select * from muyi_goods where goods_id = 16
+1438749182
+use muyi_data
+1438749186
+set names utf8
+1438749186
+select * from muyi_goods where goods_id = 16
+1438749186
+use muyi_data
+1438749196
+set names utf8
+1438749196
+select * from muyi_goods where goods_id = 16
+1438749196
+use muyi_data
+1438749207
+set names utf8
+1438749207
+select * from muyi_goods where goods_id = 16
+1438749207
+use muyi_data
+1438749209
+set names utf8
+1438749209
+select * from muyi_goods where goods_id = 16
+1438749209
+use muyi_data
+1438749289
+set names utf8
+1438749289
+select * from muyi_goods where goods_id = 16
+1438749289
+use muyi_data
+1438749296
+set names utf8
+1438749296
+select * from muyi_goods where goods_id = 16
+1438749296
+use muyi_data
+1438749306
+set names utf8
+1438749306
+select * from muyi_goods where goods_id = 16
+1438749306
+use muyi_data
+1438749307
+set names utf8
+1438749307
+select * from muyi_goods where goods_id = 16
+1438749307
+use muyi_data
+1438749311
+set names utf8
+1438749311
+select * from muyi_goods where goods_id = 16
+1438749311
+use muyi_data
+1438749319
+set names utf8
+1438749319
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438749319
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438749319
+use muyi_data
+1438749320
+set names utf8
+1438749320
+select * from muyi_goods where goods_id = 23
+1438749320
+use muyi_data
+1438749327
+set names utf8
+1438749327
+select * from muyi_goods where goods_id = 23
+1438749327
+use muyi_data
+1438749330
+set names utf8
+1438749330
+select * from muyi_goods where goods_id = 23
+1438749330
+use muyi_data
+1438749346
+set names utf8
+1438749346
+select * from muyi_goods where goods_id = 23
+1438749346
+use muyi_data
+1438749347
+set names utf8
+1438749347
+select * from muyi_goods where goods_id = 23
+1438749347
+use muyi_data
+1438749360
+set names utf8
+1438749360
+select * from muyi_goods where goods_id = 23
+1438749360
+use muyi_data
+1438749364
+set names utf8
+1438749364
+select * from muyi_goods where goods_id = 23
+1438749364
+use muyi_data
+1438749372
+set names utf8
+1438749372
+select * from muyi_goods where goods_id = 23
+1438749372
+use muyi_data
+1438749385
+set names utf8
+1438749385
+select * from muyi_goods where goods_id = 23
+1438749385
+use muyi_data
+1438749407
+set names utf8
+1438749407
+select * from muyi_goods where goods_id = 23
+1438749407
+use muyi_data
+1438749426
+set names utf8
+1438749426
+select * from muyi_goods where goods_id = 23
+1438749426
+use muyi_data
+1438749427
+set names utf8
+1438749427
+select * from muyi_goods where goods_id = 23
+1438749427
+use muyi_data
+1438749427
+set names utf8
+1438749427
+select * from muyi_goods where goods_id = 23
+1438749427
+use muyi_data
+1438749427
+set names utf8
+1438749427
+select * from muyi_goods where goods_id = 23
+1438749427
+use muyi_data
+1438749428
+set names utf8
+1438749428
+select * from muyi_goods where goods_id = 23
+1438749428
+use muyi_data
+1438749460
+set names utf8
+1438749460
+select * from muyi_goods where goods_id = 23
+1438749460
+use muyi_data
+1438749461
+set names utf8
+1438749461
+select * from muyi_goods where goods_id = 23
+1438749461
+use muyi_data
+1438749468
+set names utf8
+1438749468
+select * from muyi_goods where goods_id = 23
+1438749468
+use muyi_data
+1438749469
+set names utf8
+1438749469
+select * from muyi_goods where goods_id = 23
+1438749469
+use muyi_data
+1438749469
+set names utf8
+1438749469
+select * from muyi_goods where goods_id = 23
+1438749469
+use muyi_data
+1438749470
+set names utf8
+1438749470
+select * from muyi_goods where goods_id = 23
+1438749470
+use muyi_data
+1438749470
+set names utf8
+1438749470
+select * from muyi_goods where goods_id = 23
+1438749470
+use muyi_data
+1438749471
+set names utf8
+1438749471
+select * from muyi_goods where goods_id = 23
+1438749471
+use muyi_data
+1438749482
+set names utf8
+1438749482
+select * from muyi_goods where goods_id = 23
+1438749482
+use muyi_data
+1438749485
+set names utf8
+1438749485
+select * from muyi_goods where goods_id = 23
+1438749485
+use muyi_data
+1438749485
+set names utf8
+1438749485
+select * from muyi_goods where goods_id = 23
+1438749485
+use muyi_data
+1438749486
+set names utf8
+1438749486
+select * from muyi_goods where goods_id = 23
+1438749486
+use muyi_data
+1438749486
+set names utf8
+1438749486
+select * from muyi_goods where goods_id = 23
+1438749486
+use muyi_data
+1438749491
+set names utf8
+1438749491
+select * from muyi_goods where goods_id = 23
+1438749491
+use muyi_data
+1438749519
+set names utf8
+1438749519
+select * from muyi_goods where goods_id = 23
+1438749519
+use muyi_data
+1438749597
+set names utf8
+1438749597
+select * from muyi_goods where goods_id = 23
+1438749597
+use muyi_data
+1438749597
+set names utf8
+1438749597
+select * from muyi_goods where goods_id = 23
+1438749597
+use muyi_data
+1438749600
+set names utf8
+1438749600
+select * from muyi_goods where goods_id = 23
+1438749600
+use muyi_data
+1438749601
+set names utf8
+1438749601
+select * from muyi_goods where goods_id = 23
+1438749601
+use muyi_data
+1438749699
+set names utf8
+1438749699
+select * from muyi_goods where goods_id = 23
+1438749699
+use muyi_data
+1438749744
+set names utf8
+1438749744
+select * from muyi_goods where goods_id = 23
+1438749744
+use muyi_data
+1438749745
+set names utf8
+1438749745
+select * from muyi_goods where goods_id = 23
+1438749745
+use muyi_data
+1438749746
+set names utf8
+1438749746
+select * from muyi_goods where goods_id = 23
+1438749746
+use muyi_data
+1438749747
+set names utf8
+1438749747
+select * from muyi_goods where goods_id = 23
+1438749747
+use muyi_data
+1438749747
+set names utf8
+1438749747
+select * from muyi_goods where goods_id = 23
+1438749747
+use muyi_data
+1438749757
+set names utf8
+1438749757
+select * from muyi_goods where goods_id = 23
+1438749757
+use muyi_data
+1438749759
+set names utf8
+1438749759
+select * from muyi_goods where goods_id = 23
+1438749759
+use muyi_data
+1438749765
+set names utf8
+1438749765
+select * from muyi_goods where goods_id = 23
+1438749765
+use muyi_data
+1438749787
+set names utf8
+1438749787
+select * from muyi_goods where goods_id = 23
+1438749787
+use muyi_data
+1438749789
+set names utf8
+1438749789
+select * from muyi_goods where goods_id = 23
+1438749789
+use muyi_data
+1438749789
+set names utf8
+1438749789
+select * from muyi_goods where goods_id = 23
+1438749790
+use muyi_data
+1438749790
+set names utf8
+1438749790
+select * from muyi_goods where goods_id = 23
+1438749790
+use muyi_data
+1438749792
+set names utf8
+1438749792
+select * from muyi_goods where goods_id = 23
+1438749792
+use muyi_data
+1438749794
+set names utf8
+1438749794
+select * from muyi_goods where goods_id = 23
+1438749794
+use muyi_data
+1438749804
+set names utf8
+1438749804
+select * from muyi_goods where goods_id = 23
+1438749804
+use muyi_data
+1438749805
+set names utf8
+1438749805
+select * from muyi_goods where goods_id = 23
+1438749805
+use muyi_data
+1438749808
+set names utf8
+1438749808
+select * from muyi_goods where goods_id = 23
+1438749808
+use muyi_data
+1438749810
+set names utf8
+1438749810
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438749810
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438749810
+use muyi_data
+1438749814
+set names utf8
+1438749814
+select * from muyi_goods where goods_id = 23
+1438749814
+use muyi_data
+1438749818
+set names utf8
+1438749818
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438749818
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438749818
+use muyi_data
+1438749821
+set names utf8
+1438749821
+use muyi_data
+1438749824
+set names utf8
+1438749824
+use muyi_data
+1438749828
+set names utf8
+1438749828
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438749828
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438749828
+use muyi_data
+1438749829
+set names utf8
+1438749829
+select * from muyi_goods where goods_id = 10
+1438749829
+use muyi_data
+1438749833
+set names utf8
+1438749833
+select * from muyi_goods where goods_id = 10
+1438749833
+use muyi_data
+1438749835
+set names utf8
+1438749835
+select * from muyi_goods where goods_id = 10
+1438749835
+use muyi_data
+1438749865
+set names utf8
+1438749865
+select * from muyi_goods where goods_id = 10
+1438749865
+use muyi_data
+1438749871
+set names utf8
+1438749871
+select * from muyi_goods where goods_id = 10
+1438749871
+use muyi_data
+1438749873
+set names utf8
+1438749873
+select * from muyi_goods where goods_id = 10
+1438749873
+use muyi_data
+1438749881
+set names utf8
+1438749881
+select * from muyi_goods where goods_id = 10
+1438749881
+use muyi_data
+1438749890
+set names utf8
+1438749890
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 13
+1438749890
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 13
+1438749890
+use muyi_data
+1438749891
+set names utf8
+1438749891
+select * from muyi_goods where goods_id = 13
+1438749891
+use muyi_data
+1438749922
+set names utf8
+1438749922
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438749922
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438749922
+use muyi_data
+1438749925
+set names utf8
+1438749925
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438749925
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438749925
+use muyi_data
+1438749937
+set names utf8
+1438749937
+select * from muyi_goods where goods_id = 23
+1438749937
+use muyi_data
+1438749940
+set names utf8
+1438749940
+select * from muyi_goods where goods_id = 23
+1438749940
+use muyi_data
+1438749946
+set names utf8
+1438749946
+select * from muyi_goods where goods_id = 23
+1438749946
+use muyi_data
+1438749947
+set names utf8
+1438749947
+select * from muyi_goods where goods_id = 23
+1438749947
+use muyi_data
+1438749950
+set names utf8
+1438749950
+select * from muyi_goods where goods_id = 23
+1438749950
+use muyi_data
+1438749988
+set names utf8
+1438749988
+select * from muyi_goods where goods_id = 23
+1438749988
+use muyi_data
+1438749990
+set names utf8
+1438749990
+select * from muyi_goods where goods_id = 23
+1438749990
+use muyi_data
+1438750025
+set names utf8
+1438750025
+select * from muyi_goods where goods_id = 23
+1438750025
+use muyi_data
+1438750026
+set names utf8
+1438750026
+select * from muyi_goods where goods_id = 23
+1438750026
+use muyi_data
+1438750026
+set names utf8
+1438750026
+select * from muyi_goods where goods_id = 23
+1438750026
+use muyi_data
+1438750027
+set names utf8
+1438750027
+select * from muyi_goods where goods_id = 23
+1438750027
+use muyi_data
+1438750027
+set names utf8
+1438750027
+select * from muyi_goods where goods_id = 23
+1438750027
+use muyi_data
+1438750027
+set names utf8
+1438750027
+select * from muyi_goods where goods_id = 23
+1438750027
+use muyi_data
+1438750027
+set names utf8
+1438750027
+select * from muyi_goods where goods_id = 23
+1438750027
+use muyi_data
+1438750028
+set names utf8
+1438750028
+select * from muyi_goods where goods_id = 23
+1438750028
+use muyi_data
+1438750028
+set names utf8
+1438750028
+select * from muyi_goods where goods_id = 23
+1438750028
+use muyi_data
+1438750028
+set names utf8
+1438750028
+select * from muyi_goods where goods_id = 23
+1438750028
+use muyi_data
+1438750028
+set names utf8
+1438750028
+select * from muyi_goods where goods_id = 23
+1438750028
+use muyi_data
+1438750029
+set names utf8
+1438750029
+select * from muyi_goods where goods_id = 23
+1438750029
+use muyi_data
+1438750029
+set names utf8
+1438750029
+select * from muyi_goods where goods_id = 23
+1438750029
+use muyi_data
+1438750029
+set names utf8
+1438750029
+select * from muyi_goods where goods_id = 23
+1438750029
+use muyi_data
+1438750029
+set names utf8
+1438750029
+select * from muyi_goods where goods_id = 23
+1438750029
+use muyi_data
+1438750030
+set names utf8
+1438750030
+select * from muyi_goods where goods_id = 23
+1438750030
+use muyi_data
+1438750030
+set names utf8
+1438750030
+select * from muyi_goods where goods_id = 23
+1438750030
+use muyi_data
+1438750030
+set names utf8
+1438750030
+select * from muyi_goods where goods_id = 23
+1438750030
+use muyi_data
+1438750045
+set names utf8
+1438750045
+select * from muyi_category
+1438750045
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438750045
+select * from muyi_category where cat_id = 1
+1438750045
+select * from muyi_category
+1438750045
+select * from muyi_category
+1438750045
+select * from muyi_category
+1438750045
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438750045
+use muyi_data
+1438750047
+set names utf8
+1438750047
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 13
+1438750047
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 13
+1438750047
+use muyi_data
+1438750049
+set names utf8
+1438750049
+select * from muyi_goods where goods_id = 13
+1438750049
+use muyi_data
+1438750056
+set names utf8
+1438750056
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 17
+1438750056
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 17
+1438750056
+use muyi_data
+1438750058
+set names utf8
+1438750058
+select * from muyi_goods where goods_id = 17
+1438750058
+use muyi_data
+1438750153
+set names utf8
+1438750153
+use muyi_data
+1438750163
+set names utf8
+1438750163
+use muyi_data
+1438750164
+set names utf8
+1438750164
+use muyi_data
+1438750165
+set names utf8
+1438750165
+use muyi_data
+1438750165
+set names utf8
+1438750165
+use muyi_data
+1438750166
+set names utf8
+1438750166
+use muyi_data
+1438750167
+set names utf8
+1438750167
+use muyi_data
+1438750167
+set names utf8
+1438750167
+use muyi_data
+1438750168
+set names utf8
+1438750168
+use muyi_data
+1438750169
+set names utf8
+1438750169
+use muyi_data
+1438750169
+set names utf8
+1438750169
+use muyi_data
+1438750170
+set names utf8
+1438750170
+use muyi_data
+1438750171
+set names utf8
+1438750171
+use muyi_data
+1438750191
+set names utf8
+1438750191
+use muyi_data
+1438750192
+set names utf8
+1438750192
+use muyi_data
+1438750192
+set names utf8
+1438750192
+use muyi_data
+1438750192
+set names utf8
+1438750192
+use muyi_data
+1438750279
+set names utf8
+1438750279
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 13
+1438750279
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 13
+1438750279
+use muyi_data
+1438750289
+set names utf8
+1438750289
+select * from muyi_goods where goods_id = 13
+1438750289
+use muyi_data
+1438750292
+set names utf8
+1438750292
+use muyi_data
+1438750489
+set names utf8
+1438750489
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750489
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750489
+use muyi_data
+1438750490
+set names utf8
+1438750490
+use muyi_data
+1438750496
+set names utf8
+1438750496
+use muyi_data
+1438750497
+set names utf8
+1438750497
+use muyi_data
+1438750497
+set names utf8
+1438750497
+use muyi_data
+1438750497
+set names utf8
+1438750497
+use muyi_data
+1438750498
+set names utf8
+1438750498
+use muyi_data
+1438750498
+set names utf8
+1438750498
+use muyi_data
+1438750499
+set names utf8
+1438750499
+use muyi_data
+1438750499
+set names utf8
+1438750499
+use muyi_data
+1438750526
+set names utf8
+1438750526
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750526
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750526
+use muyi_data
+1438750527
+set names utf8
+1438750527
+use muyi_data
+1438750530
+set names utf8
+1438750530
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750530
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750530
+use muyi_data
+1438750531
+set names utf8
+1438750531
+use muyi_data
+1438750533
+set names utf8
+1438750533
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750533
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750533
+use muyi_data
+1438750534
+set names utf8
+1438750534
+use muyi_data
+1438750574
+set names utf8
+1438750574
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750574
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750574
+use muyi_data
+1438750575
+set names utf8
+1438750575
+use muyi_data
+1438750579
+set names utf8
+1438750579
+use muyi_data
+1438750581
+set names utf8
+1438750581
+use muyi_data
+1438750581
+set names utf8
+1438750581
+use muyi_data
+1438750581
+set names utf8
+1438750582
+use muyi_data
+1438750582
+set names utf8
+1438750582
+use muyi_data
+1438750582
+set names utf8
+1438750582
+use muyi_data
+1438750585
+set names utf8
+1438750585
+use muyi_data
+1438750667
+set names utf8
+1438750667
+use muyi_data
+1438750669
+set names utf8
+1438750669
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750669
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750669
+use muyi_data
+1438750670
+set names utf8
+1438750670
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750670
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750670
+use muyi_data
+1438750686
+set names utf8
+1438750686
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750686
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750686
+use muyi_data
+1438750688
+set names utf8
+1438750688
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750688
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750688
+use muyi_data
+1438750688
+set names utf8
+1438750688
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750688
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750688
+use muyi_data
+1438750689
+set names utf8
+1438750689
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750689
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750689
+use muyi_data
+1438750694
+set names utf8
+1438750694
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750694
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750694
+use muyi_data
+1438750698
+set names utf8
+1438750698
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750698
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750698
+use muyi_data
+1438750733
+set names utf8
+1438750733
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750733
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750733
+use muyi_data
+1438750734
+set names utf8
+1438750734
+select * from muyi_goods where goods_id = 23
+1438750734
+use muyi_data
+1438750738
+set names utf8
+1438750738
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750738
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750738
+use muyi_data
+1438750739
+set names utf8
+1438750739
+select * from muyi_goods where goods_id = 23
+1438750739
+use muyi_data
+1438750741
+set names utf8
+1438750741
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438750741
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438750741
+use muyi_data
+1438750742
+set names utf8
+1438750742
+select * from muyi_goods where goods_id = 23
+1438750742
+use muyi_data
+1438750748
+set names utf8
+1438750748
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 15
+1438750748
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 15
+1438750748
+use muyi_data
+1438750749
+set names utf8
+1438750749
+select * from muyi_goods where goods_id = 15
+1438750749
+use muyi_data
+1438750752
+set names utf8
+1438750752
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 15
+1438750752
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 15
+1438750752
+use muyi_data
+1438750753
+set names utf8
+1438750753
+select * from muyi_goods where goods_id = 15
+1438750753
+use muyi_data
+1438750793
+set names utf8
+1438750793
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 15
+1438750793
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 15
+1438750793
+use muyi_data
+1438750794
+set names utf8
+1438750794
+select * from muyi_goods where goods_id = 15
+1438750794
+use muyi_data
+1438750823
+set names utf8
+1438750823
+select * from muyi_goods where goods_id = 15
+1438750823
+use muyi_data
+1438750827
+set names utf8
+1438750827
+select * from muyi_goods where goods_id = 15
+1438750827
+use muyi_data
+1438750829
+set names utf8
+1438750829
+select * from muyi_goods where goods_id = 15
+1438750829
+use muyi_data
+1438750886
+set names utf8
+1438750886
+select * from muyi_goods where goods_id = 15
+1438750886
+use muyi_data
+1438750890
+set names utf8
+1438750890
+select * from muyi_goods where goods_id = 15
+1438750890
+use muyi_data
+1438750891
+set names utf8
+1438750891
+select * from muyi_goods where goods_id = 15
+1438750891
+use muyi_data
+1438750894
+set names utf8
+1438750894
+select * from muyi_goods where goods_id = 15
+1438750894
+use muyi_data
+1438750940
+set names utf8
+1438750940
+use muyi_data
+1438750943
+set names utf8
+1438750943
+use muyi_data
+1438750946
+set names utf8
+1438750946
+use muyi_data
+1438750948
+set names utf8
+1438750948
+use muyi_data
+1438750955
+set names utf8
+1438750955
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 12
+1438750955
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 12
+1438750955
+use muyi_data
+1438750956
+set names utf8
+1438750956
+use muyi_data
+1438751037
+set names utf8
+1438751037
+select * from muyi_goods where goods_id = 12
+1438751037
+use muyi_data
+1438751038
+set names utf8
+1438751038
+select * from muyi_goods where goods_id = 12
+1438751038
+use muyi_data
+1438751040
+set names utf8
+1438751040
+select * from muyi_goods where goods_id = 12
+1438751040
+use muyi_data
+1438751040
+set names utf8
+1438751040
+select * from muyi_goods where goods_id = 12
+1438751040
+use muyi_data
+1438751041
+set names utf8
+1438751041
+select * from muyi_goods where goods_id = 12
+1438751041
+use muyi_data
+1438751042
+set names utf8
+1438751042
+select * from muyi_goods where goods_id = 12
+1438751042
+use muyi_data
+1438751042
+set names utf8
+1438751042
+select * from muyi_goods where goods_id = 12
+1438751042
+use muyi_data
+1438751043
+set names utf8
+1438751043
+select * from muyi_goods where goods_id = 12
+1438751043
+use muyi_data
+1438751151
+set names utf8
+1438751151
+select * from muyi_goods where goods_id = 15
+1438751151
+use muyi_data
+1438751153
+set names utf8
+1438751153
+select * from muyi_goods where goods_id = 15
+1438751153
+use muyi_data
+1438751154
+set names utf8
+1438751154
+select * from muyi_goods where goods_id = 15
+1438751154
+use muyi_data
+1438751154
+set names utf8
+1438751154
+select * from muyi_goods where goods_id = 15
+1438751154
+use muyi_data
+1438751155
+set names utf8
+1438751155
+select * from muyi_goods where goods_id = 15
+1438751155
+use muyi_data
+1438751155
+set names utf8
+1438751155
+select * from muyi_goods where goods_id = 15
+1438751155
+use muyi_data
+1438751156
+set names utf8
+1438751156
+select * from muyi_goods where goods_id = 15
+1438751156
+use muyi_data
+1438751156
+set names utf8
+1438751156
+select * from muyi_goods where goods_id = 15
+1438751156
+use muyi_data
+1438751156
+set names utf8
+1438751156
+select * from muyi_goods where goods_id = 15
+1438751156
+use muyi_data
+1438751158
+set names utf8
+1438751158
+select * from muyi_goods where goods_id = 15
+1438751158
+use muyi_data
+1438751165
+set names utf8
+1438751165
+select * from muyi_goods where goods_id = 12
+1438751165
+use muyi_data
+1438751166
+set names utf8
+1438751166
+select * from muyi_goods where goods_id = 12
+1438751166
+use muyi_data
+1438751166
+set names utf8
+1438751166
+select * from muyi_goods where goods_id = 12
+1438751166
+use muyi_data
+1438751166
+set names utf8
+1438751166
+select * from muyi_goods where goods_id = 12
+1438751166
+use muyi_data
+1438751167
+set names utf8
+1438751167
+select * from muyi_goods where goods_id = 12
+1438751167
+use muyi_data
+1438751167
+set names utf8
+1438751167
+select * from muyi_goods where goods_id = 12
+1438751167
+use muyi_data
+1438751168
+set names utf8
+1438751168
+select * from muyi_goods where goods_id = 12
+1438751168
+use muyi_data
+1438751168
+set names utf8
+1438751168
+select * from muyi_goods where goods_id = 12
+1438751168
+use muyi_data
+1438751169
+set names utf8
+1438751169
+select * from muyi_goods where goods_id = 12
+1438751169
+use muyi_data
+1438751170
+set names utf8
+1438751170
+select * from muyi_goods where goods_id = 12
+1438751170
+use muyi_data
+1438751171
+set names utf8
+1438751171
+select * from muyi_goods where goods_id = 12
+1438751171
+use muyi_data
+1438751172
+set names utf8
+1438751172
+select * from muyi_goods where goods_id = 12
+1438751172
+use muyi_data
+1438751173
+set names utf8
+1438751173
+select * from muyi_goods where goods_id = 12
+1438751173
+use muyi_data
+1438751173
+set names utf8
+1438751173
+select * from muyi_goods where goods_id = 12
+1438751173
+use muyi_data
+1438751173
+set names utf8
+1438751173
+select * from muyi_goods where goods_id = 12
+1438751173
+use muyi_data
+1438751174
+set names utf8
+1438751174
+select * from muyi_goods where goods_id = 12
+1438751174
+use muyi_data
+1438751174
+set names utf8
+1438751174
+select * from muyi_goods where goods_id = 12
+1438751174
+use muyi_data
+1438751177
+set names utf8
+1438751177
+select * from muyi_goods where goods_id = 15
+1438751177
+use muyi_data
+1438751177
+set names utf8
+1438751177
+select * from muyi_goods where goods_id = 15
+1438751177
+use muyi_data
+1438751178
+set names utf8
+1438751178
+select * from muyi_goods where goods_id = 15
+1438751178
+use muyi_data
+1438751178
+set names utf8
+1438751178
+select * from muyi_goods where goods_id = 15
+1438751178
+use muyi_data
+1438751178
+set names utf8
+1438751178
+select * from muyi_goods where goods_id = 15
+1438751178
+use muyi_data
+1438751179
+set names utf8
+1438751179
+select * from muyi_goods where goods_id = 15
+1438751179
+use muyi_data
+1438751179
+set names utf8
+1438751179
+select * from muyi_goods where goods_id = 15
+1438751179
+use muyi_data
+1438751180
+set names utf8
+1438751180
+select * from muyi_goods where goods_id = 15
+1438751180
+use muyi_data
+1438751180
+set names utf8
+1438751180
+select * from muyi_goods where goods_id = 15
+1438751180
+use muyi_data
+1438751181
+set names utf8
+1438751181
+select * from muyi_goods where goods_id = 15
+1438751181
+use muyi_data
+1438751182
+set names utf8
+1438751182
+select * from muyi_goods where goods_id = 15
+1438751182
+use muyi_data
+1438751182
+set names utf8
+1438751182
+select * from muyi_goods where goods_id = 15
+1438751182
+use muyi_data
+1438751182
+set names utf8
+1438751182
+select * from muyi_goods where goods_id = 15
+1438751182
+use muyi_data
+1438751183
+set names utf8
+1438751183
+select * from muyi_goods where goods_id = 15
+1438751183
+use muyi_data
+1438751183
+set names utf8
+1438751183
+select * from muyi_goods where goods_id = 15
+1438751183
+use muyi_data
+1438751183
+set names utf8
+1438751183
+select * from muyi_goods where goods_id = 15
+1438751183
+use muyi_data
+1438751183
+set names utf8
+1438751183
+select * from muyi_goods where goods_id = 15
+1438751183
+use muyi_data
+1438751186
+set names utf8
+1438751186
+select * from muyi_goods where goods_id = 12
+1438751186
+use muyi_data
+1438751188
+set names utf8
+1438751188
+select * from muyi_goods where goods_id = 12
+1438751188
+use muyi_data
+1438751190
+set names utf8
+1438751190
+select * from muyi_goods where goods_id = 12
+1438751190
+use muyi_data
+1438751191
+set names utf8
+1438751191
+select * from muyi_goods where goods_id = 12
+1438751191
+use muyi_data
+1438751191
+set names utf8
+1438751191
+select * from muyi_goods where goods_id = 12
+1438751191
+use muyi_data
+1438751194
+set names utf8
+1438751194
+select * from muyi_goods where goods_id = 15
+1438751194
+use muyi_data
+1438751195
+set names utf8
+1438751195
+select * from muyi_goods where goods_id = 15
+1438751195
+use muyi_data
+1438751196
+set names utf8
+1438751196
+select * from muyi_goods where goods_id = 15
+1438751196
+use muyi_data
+1438751196
+set names utf8
+1438751196
+select * from muyi_goods where goods_id = 15
+1438751196
+use muyi_data
+1438751197
+set names utf8
+1438751197
+select * from muyi_goods where goods_id = 15
+1438751197
+use muyi_data
+1438751197
+set names utf8
+1438751197
+select * from muyi_goods where goods_id = 15
+1438751197
+use muyi_data
+1438751197
+set names utf8
+1438751197
+select * from muyi_goods where goods_id = 15
+1438751197
+use muyi_data
+1438751197
+set names utf8
+1438751197
+select * from muyi_goods where goods_id = 15
+1438751197
+use muyi_data
+1438751198
+set names utf8
+1438751198
+select * from muyi_goods where goods_id = 15
+1438751198
+use muyi_data
+1438751198
+set names utf8
+1438751198
+select * from muyi_goods where goods_id = 15
+1438751198
+use muyi_data
+1438751198
+set names utf8
+1438751198
+select * from muyi_goods where goods_id = 15
+1438751198
+use muyi_data
+1438751198
+set names utf8
+1438751198
+select * from muyi_goods where goods_id = 15
+1438751198
+use muyi_data
+1438751198
+set names utf8
+1438751198
+select * from muyi_goods where goods_id = 15
+1438751198
+use muyi_data
+1438751199
+set names utf8
+1438751199
+select * from muyi_goods where goods_id = 15
+1438751199
+use muyi_data
+1438751199
+set names utf8
+1438751199
+select * from muyi_goods where goods_id = 15
+1438751199
+use muyi_data
+1438751199
+set names utf8
+1438751199
+select * from muyi_goods where goods_id = 15
+1438751199
+use muyi_data
+1438751205
+set names utf8
+1438751205
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 12
+1438751205
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 12
+1438751205
+use muyi_data
+1438751207
+set names utf8
+1438751207
+use muyi_data
+1438751209
+set names utf8
+1438751209
+use muyi_data
+1438751212
+set names utf8
+1438751212
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 13
+1438751212
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 13
+1438751212
+use muyi_data
+1438751213
+set names utf8
+1438751213
+select * from muyi_goods where goods_id = 13
+1438751213
+use muyi_data
+1438751216
+set names utf8
+1438751216
+select * from muyi_goods where goods_id = 13
+1438751216
+use muyi_data
+1438751217
+set names utf8
+1438751217
+select * from muyi_goods where goods_id = 13
+1438751217
+use muyi_data
+1438751218
+set names utf8
+1438751218
+select * from muyi_goods where goods_id = 13
+1438751218
+use muyi_data
+1438751220
+set names utf8
+1438751220
+select * from muyi_goods where goods_id = 13
+1438751220
+use muyi_data
+1438751225
+set names utf8
+1438751225
+select * from muyi_goods where goods_id = 13
+1438751225
+use muyi_data
+1438751248
+set names utf8
+1438751248
+select * from muyi_goods where goods_id = 13
+1438751248
+use muyi_data
+1438751250
+set names utf8
+1438751250
+select * from muyi_goods where goods_id = 13
+1438751250
+use muyi_data
+1438751251
+set names utf8
+1438751251
+select * from muyi_goods where goods_id = 13
+1438751251
+use muyi_data
+1438751251
+set names utf8
+1438751251
+select * from muyi_goods where goods_id = 13
+1438751251
+use muyi_data
+1438751252
+set names utf8
+1438751252
+select * from muyi_goods where goods_id = 13
+1438751252
+use muyi_data
+1438751252
+set names utf8
+1438751252
+select * from muyi_goods where goods_id = 13
+1438751252
+use muyi_data
+1438751252
+set names utf8
+1438751252
+select * from muyi_goods where goods_id = 13
+1438751252
+use muyi_data
+1438751253
+set names utf8
+1438751253
+select * from muyi_goods where goods_id = 13
+1438751253
+use muyi_data
+1438751253
+set names utf8
+1438751253
+select * from muyi_goods where goods_id = 13
+1438751253
+use muyi_data
+1438751253
+set names utf8
+1438751253
+select * from muyi_goods where goods_id = 13
+1438751253
+use muyi_data
+1438751253
+set names utf8
+1438751253
+select * from muyi_goods where goods_id = 13
+1438751253
+use muyi_data
+1438751253
+set names utf8
+1438751253
+select * from muyi_goods where goods_id = 13
+1438751253
+use muyi_data
+1438751254
+set names utf8
+1438751254
+select * from muyi_goods where goods_id = 13
+1438751254
+use muyi_data
+1438751254
+set names utf8
+1438751254
+select * from muyi_goods where goods_id = 13
+1438751254
+use muyi_data
+1438751254
+set names utf8
+1438751254
+select * from muyi_goods where goods_id = 13
+1438751254
+use muyi_data
+1438751254
+set names utf8
+1438751254
+select * from muyi_goods where goods_id = 13
+1438751254
+use muyi_data
+1438751255
+set names utf8
+1438751255
+select * from muyi_goods where goods_id = 13
+1438751255
+use muyi_data
+1438751255
+set names utf8
+1438751255
+select * from muyi_goods where goods_id = 13
+1438751255
+use muyi_data
+1438751255
+set names utf8
+1438751255
+select * from muyi_goods where goods_id = 13
+1438751255
+use muyi_data
+1438751255
+set names utf8
+1438751255
+select * from muyi_goods where goods_id = 13
+1438751255
+use muyi_data
+1438751256
+set names utf8
+1438751256
+select * from muyi_goods where goods_id = 13
+1438751256
+use muyi_data
+1438751256
+set names utf8
+1438751256
+select * from muyi_goods where goods_id = 13
+1438751256
+use muyi_data
+1438751256
+set names utf8
+1438751256
+select * from muyi_goods where goods_id = 13
+1438751256
+use muyi_data
+1438751256
+set names utf8
+1438751256
+select * from muyi_goods where goods_id = 13
+1438751256
+use muyi_data
+1438751279
+set names utf8
+1438751279
+use muyi_data
+1438751279
+set names utf8
+1438751279
+use muyi_data
+1438751280
+set names utf8
+1438751280
+use muyi_data
+1438751280
+set names utf8
+1438751280
+use muyi_data
+1438751281
+set names utf8
+1438751281
+use muyi_data
+1438751281
+set names utf8
+1438751281
+use muyi_data
+1438751281
+set names utf8
+1438751281
+use muyi_data
+1438751281
+set names utf8
+1438751281
+use muyi_data
+1438751282
+set names utf8
+1438751282
+use muyi_data
+1438751282
+set names utf8
+1438751282
+use muyi_data
+1438751282
+set names utf8
+1438751282
+use muyi_data
+1438751282
+set names utf8
+1438751282
+use muyi_data
+1438751283
+set names utf8
+1438751283
+use muyi_data
+1438751283
+set names utf8
+1438751283
+use muyi_data
+1438751284
+set names utf8
+1438751284
+use muyi_data
+1438751284
+set names utf8
+1438751284
+use muyi_data
+1438751285
+set names utf8
+1438751285
+use muyi_data
+1438751286
+set names utf8
+1438751286
+use muyi_data
+1438751286
+set names utf8
+1438751286
+use muyi_data
+1438751287
+set names utf8
+1438751287
+use muyi_data
+1438751314
+set names utf8
+1438751314
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438751314
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438751314
+use muyi_data
+1438751315
+set names utf8
+1438751315
+use muyi_data
+1438751318
+set names utf8
+1438751318
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438751318
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438751318
+use muyi_data
+1438751321
+set names utf8
+1438751321
+use muyi_data
+1438751335
+set names utf8
+1438751335
+select * from muyi_goods where goods_id = 10
+1438751335
+use muyi_data
+1438751336
+set names utf8
+1438751336
+select * from muyi_goods where goods_id = 10
+1438751336
+use muyi_data
+1438751336
+set names utf8
+1438751336
+select * from muyi_goods where goods_id = 10
+1438751336
+use muyi_data
+1438751337
+set names utf8
+1438751337
+select * from muyi_goods where goods_id = 10
+1438751337
+use muyi_data
+1438751337
+set names utf8
+1438751337
+select * from muyi_goods where goods_id = 10
+1438751337
+use muyi_data
+1438751338
+set names utf8
+1438751338
+select * from muyi_goods where goods_id = 10
+1438751338
+use muyi_data
+1438751338
+set names utf8
+1438751338
+select * from muyi_goods where goods_id = 10
+1438751338
+use muyi_data
+1438751338
+set names utf8
+1438751338
+select * from muyi_goods where goods_id = 10
+1438751338
+use muyi_data
+1438751339
+set names utf8
+1438751339
+select * from muyi_goods where goods_id = 10
+1438751339
+use muyi_data
+1438751339
+set names utf8
+1438751339
+select * from muyi_goods where goods_id = 10
+1438751339
+use muyi_data
+1438751339
+set names utf8
+1438751339
+select * from muyi_goods where goods_id = 10
+1438751339
+use muyi_data
+1438751340
+set names utf8
+1438751340
+select * from muyi_goods where goods_id = 10
+1438751340
+use muyi_data
+1438751360
+set names utf8
+1438751360
+select * from muyi_goods where goods_id = 10
+1438751360
+use muyi_data
+1438751362
+set names utf8
+1438751362
+select * from muyi_goods where goods_id = 10
+1438751362
+use muyi_data
+1438751363
+set names utf8
+1438751363
+select * from muyi_goods where goods_id = 10
+1438751363
+use muyi_data
+1438751363
+set names utf8
+1438751363
+select * from muyi_goods where goods_id = 10
+1438751363
+use muyi_data
+1438751363
+set names utf8
+1438751363
+select * from muyi_goods where goods_id = 10
+1438751363
+use muyi_data
+1438751364
+set names utf8
+1438751364
+select * from muyi_goods where goods_id = 10
+1438751364
+use muyi_data
+1438751364
+set names utf8
+1438751364
+select * from muyi_goods where goods_id = 10
+1438751364
+use muyi_data
+1438751365
+set names utf8
+1438751365
+select * from muyi_goods where goods_id = 10
+1438751365
+use muyi_data
+1438751365
+set names utf8
+1438751365
+select * from muyi_goods where goods_id = 10
+1438751365
+use muyi_data
+1438751365
+set names utf8
+1438751365
+select * from muyi_goods where goods_id = 10
+1438751365
+use muyi_data
+1438751368
+set names utf8
+1438751368
+select * from muyi_goods where goods_id = 10
+1438751368
+use muyi_data
+1438751398
+set names utf8
+1438751398
+select * from muyi_goods where goods_id = 10
+1438751398
+use muyi_data
+1438751400
+set names utf8
+1438751400
+select * from muyi_goods where goods_id = 10
+1438751400
+use muyi_data
+1438751401
+set names utf8
+1438751401
+select * from muyi_goods where goods_id = 10
+1438751401
+use muyi_data
+1438751401
+set names utf8
+1438751401
+select * from muyi_goods where goods_id = 10
+1438751401
+use muyi_data
+1438751401
+set names utf8
+1438751401
+select * from muyi_goods where goods_id = 10
+1438751401
+use muyi_data
+1438751401
+set names utf8
+1438751402
+select * from muyi_goods where goods_id = 10
+1438751402
+use muyi_data
+1438751402
+set names utf8
+1438751402
+select * from muyi_goods where goods_id = 10
+1438751402
+use muyi_data
+1438751438
+set names utf8
+1438751438
+select * from muyi_goods where goods_id = 10
+1438751438
+use muyi_data
+1438751441
+set names utf8
+1438751441
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 10
+1438751441
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 10
+1438751441
+use muyi_data
+1438751442
+set names utf8
+1438751442
+select * from muyi_goods where goods_id = 10
+1438751442
+use muyi_data
+1438753278
+set names utf8
+1438753278
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 23
+1438753278
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 23
+1438753278
+use muyi_data
+1438753281
+set names utf8
+1438753281
+use muyi_data
+1438753281
+set names utf8
+1438753281
+select * from muyi_goods where goods_id = 23
+1438753281
+use muyi_data
+1438753288
+set names utf8
+1438753288
+select * from muyi_goods where goods_id = 23
+1438753288
+use muyi_data
+1438933977
+set names utf8
+1438933977
+use muyi_data
+1438933979
+set names utf8
+1438933979
+use muyi_data
+1438933980
+set names utf8
+1438933980
+use muyi_data
+1438933980
+set names utf8
+1438933980
+use muyi_data
+1438933981
+set names utf8
+1438933981
+use muyi_data
+1438933981
+set names utf8
+1438933981
+use muyi_data
+1438933981
+set names utf8
+1438933981
+use muyi_data
+1438933981
+set names utf8
+1438933981
+use muyi_data
+1438933984
+set names utf8
+1438933984
+use muyi_data
+1438933984
+set names utf8
+1438933984
+use muyi_data
+1438933985
+set names utf8
+1438933985
+use muyi_data
+1438933985
+set names utf8
+1438933985
+use muyi_data
+1438933985
+set names utf8
+1438933985
+use muyi_data
+1438933985
+set names utf8
+1438933985
+use muyi_data
+1438933986
+set names utf8
+1438933986
+use muyi_data
+1438933986
+set names utf8
+1438933986
+use muyi_data
+1438933986
+set names utf8
+1438933986
+use muyi_data
+1438933987
+set names utf8
+1438933987
+use muyi_data
+1438933987
+set names utf8
+1438933987
+use muyi_data
+1438933988
+set names utf8
+1438933988
+use muyi_data
+1438933989
+set names utf8
+1438933989
+use muyi_data
+1438933989
+set names utf8
+1438933989
+use muyi_data
+1438933990
+set names utf8
+1438933990
+use muyi_data
+1438933990
+set names utf8
+1438933990
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933991
+set names utf8
+1438933991
+use muyi_data
+1438933992
+set names utf8
+1438933992
+use muyi_data
+1438933992
+set names utf8
+1438933992
+use muyi_data
+1438933992
+set names utf8
+1438933992
+use muyi_data
+1438933992
+set names utf8
+1438933992
+use muyi_data
+1438933992
+set names utf8
+1438933992
+use muyi_data
+1438933993
+set names utf8
+1438933993
+use muyi_data
+1438933994
+set names utf8
+1438933994
+select * from muyi_category
+1438933994
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438933994
+select * from muyi_category where cat_id = 1
+1438933994
+select * from muyi_category
+1438933994
+select * from muyi_category
+1438933994
+select * from muyi_category
+1438933994
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438933994
+use muyi_data
+1438934002
+set names utf8
+1438934002
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438934002
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438934002
+use muyi_data
+1438934004
+set names utf8
+1438934004
+select * from muyi_goods where goods_id = 16
+1438934004
+use muyi_data
+1438934006
+set names utf8
+1438934006
+select * from muyi_goods where goods_id = 16
+1438934006
+use muyi_data
+1438934007
+set names utf8
+1438934007
+select * from muyi_goods where goods_id = 16
+1438934007
+use muyi_data
+1438934009
+set names utf8
+1438934009
+select * from muyi_goods where goods_id = 16
+1438934009
+use muyi_data
+1438934015
+set names utf8
+1438934015
+select * from muyi_goods where goods_id = 16
+1438934015
+use muyi_data
+1438934018
+set names utf8
+1438934018
+select * from muyi_goods where goods_id = 16
+1438934018
+use muyi_data
+1438934023
+set names utf8
+1438934023
+use muyi_data
+1438934031
+set names utf8
+1438934031
+use muyi_data
+1438934032
+set names utf8
+1438934032
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438934032
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438934032
+use muyi_data
+1438934033
+set names utf8
+1438934033
+select * from muyi_category
+1438934033
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438934033
+select * from muyi_category where cat_id = 1
+1438934033
+select * from muyi_category
+1438934033
+select * from muyi_category
+1438934033
+select * from muyi_category
+1438934033
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438934033
+use muyi_data
+1438934037
+set names utf8
+1438934037
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 16
+1438934037
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 16
+1438934037
+use muyi_data
+1438934038
+set names utf8
+1438934038
+select * from muyi_category
+1438934038
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438934038
+select * from muyi_category where cat_id = 1
+1438934038
+select * from muyi_category
+1438934038
+select * from muyi_category
+1438934038
+select * from muyi_category
+1438934038
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438934038
+use muyi_data
+1438934040
+set names utf8
+1438934040
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 12
+1438934040
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 12
+1438934040
+use muyi_data
+1438934041
+set names utf8
+1438934041
+select * from muyi_goods where goods_id = 12
+1438934041
+use muyi_data
+1438934047
+set names utf8
+1438934047
+select * from muyi_goods where goods_id = 12
+1438934047
+use muyi_data
+1438934096
+set names utf8
+1438934096
+select * from muyi_category
+1438934096
+select count(*) from muyi_goods where cat_id in (1,2,3,4)
+1438934096
+select * from muyi_category where cat_id = 1
+1438934096
+select * from muyi_category
+1438934096
+select * from muyi_category
+1438934096
+select * from muyi_category
+1438934096
+select goods_id,goods_name,shop_price,market_price,thumb_img0,smatu_img1 from muyi_goods where cat_id in (1,2,3,4) order by add_time limit 0,12
+1438934096
+use muyi_data
+1438934103
+set names utf8
+1438934103
+select goods_id,cat_id,brand_id,goods_name,shop_price,market_price,goods_number,goods_img0,goods_img1,goods_img2,goods_img3,
+        goods_img4,thumb_img0,thumb_img1,thumb_img2,thumb_img3,thumb_img4 from muyi_goods where goods_id = 18
+1438934103
+select goods_id,goods_brief,description,wireless_desc from muyi_goodsq where goods_id = 18
+1438934103
+use muyi_data
+1438934104
+set names utf8
+1438934104
+select * from muyi_goods where goods_id = 18
+1438934104
